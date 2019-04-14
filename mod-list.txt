@@ -42,11 +42,17 @@ https://minecraft.curseforge.com/projects/kjlib
 LLibrary
 https://minecraft.curseforge.com/projects/llibrary
 
+Long Fall Boots
+https://minecraft.curseforge.com/projects/long-fall-boots
+
+Mantle (Required by Natura)
+https://minecraft.curseforge.com/projects/mantle
+
 More Chickens
 https://minecraft.curseforge.com/projects/more-chickens
 
-Long Fall Boots
-https://minecraft.curseforge.com/projects/long-fall-boots
+Natura
+https://minecraft.curseforge.com/projects/natura
 
 Primitive Mobs
 https://minecraft.curseforge.com/projects/primitive-mobs
