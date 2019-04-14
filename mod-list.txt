@@ -27,6 +27,9 @@ https://minecraft.curseforge.com/projects/inventory-tweaks
 JEI
 https://minecraft.curseforge.com/projects/jei
 
+LLibrary
+https://minecraft.curseforge.com/projects/llibrary
+
 More Chickens
 https://minecraft.curseforge.com/projects/more-chickens
 

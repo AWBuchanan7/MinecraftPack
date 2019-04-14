@@ -37,5 +37,21 @@
     "spawn_type": "NONE",
     "parent_1": "chickens:emeraldchicken",
     "parent_2": "chickens:greenchicken"
+  },
+  "morechickens:amberchicken": {
+    "name": "amberchicken",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "fossil:amber",
+      "metaID": 0
+    },
+    "drop_item": {
+      "itemID": "fossil:amber",
+      "metaID": 0
+    },
+    "spawn_type": "NONE",
+    "parent_1": "chickens:waterchicken",
+    "parent_2": "chickens:logchicken"
   }
 }
