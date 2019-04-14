@@ -9,6 +9,9 @@ https://minecraft.curseforge.com/projects/better-foliage
 BetterFPS
 https://minecraft.curseforge.com/projects/betterfps
 
+Cave Root
+https://minecraft.curseforge.com/projects/cave-root
+
 Chickens
 https://minecraft.curseforge.com/projects/chickens
 
@@ -32,6 +35,9 @@ https://minecraft.curseforge.com/projects/iyamatos-mod
 
 JEI
 https://minecraft.curseforge.com/projects/jei
+
+KJLib (Required by Cave Root)
+https://minecraft.curseforge.com/projects/kjlib
 
 LLibrary
 https://minecraft.curseforge.com/projects/llibrary
