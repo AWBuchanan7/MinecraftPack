@@ -1,70 +1,59 @@
-Added
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Added ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Name							URL																	Comments
+Appleskin						https://minecraft.curseforge.com/projects/appleskin					~
+Aquaculture						https://minecraft.curseforge.com/projects/aquaculture				~
+Baubles							https://minecraft.curseforge.com/projects/baubles					Required by Hooked
+Better Foliage					https://minecraft.curseforge.com/projects/better-foliage			Requires Shadowfacts' Forgelin
+BetterFPS						https://minecraft.curseforge.com/projects/betterfps					~
+Bullseye						https://minecraft.curseforge.com/projects/bullseye					~
+Cave Root						https://minecraft.curseforge.com/projects/cave-root					~
+Chickens						https://minecraft.curseforge.com/projects/chickens					~
+Controlling						https://minecraft.curseforge.com/projects/controlling				~
+Cooking for Blockheads			https://minecraft.curseforge.com/projects/cooking-for-blockheads	~
+Crafting Tweaks					https://minecraft.curseforge.com/projects/crafting-tweaks			~
+Cyclic							https://minecraft.curseforge.com/projects/cyclic					~
+Extra Utilities					https://minecraft.curseforge.com/projects/extra-utilities			~
+Familiar Fauna					https://minecraft.curseforge.com/projects/familiar-fauna			~
+FastWorkbench					https://minecraft.curseforge.com/projects/fastworkbench				~
+Fence Jumper					https://minecraft.curseforge.com/projects/fence-jumper				~
+Forgelin (Shadowfacts')			https://minecraft.curseforge.com/projects/shadowfacts-forgelin		Required by Better Foliage
+Fossils and Archeology Revival	https://minecraft.curseforge.com/projects/fossils					~
+Hatchery						https://minecraft.curseforge.com/projects/hatchery					Complements Chickens and Roost
+Hooked							https://minecraft.curseforge.com/projects/hooked					~
+Inventory Tweaks				https://minecraft.curseforge.com/projects/inventory-tweaks			~
+iYAMATO's Mod					https://minecraft.curseforge.com/projects/iyamatos-mod				~
+JEI								https://minecraft.curseforge.com/projects/jei						~
+JourneyMap						https://minecraft.curseforge.com/projects/journeymap				~
+KJLib							https://minecraft.curseforge.com/projects/kjlib						Required by Cave Root and Stone Chests
+KleeSlabs						https://minecraft.curseforge.com/projects/kleeslabs					~
+LibrarianLib					https://minecraft.curseforge.com/projects/librarianlib				Required by Hooked
+LLibrary						https://minecraft.curseforge.com/projects/llibrary					Required by Fossils and Archeology
+Long Fall Boots					https://minecraft.curseforge.com/projects/long-fall-boots			~
+MAGE (Graphical Tweaks)			https://minecraft.curseforge.com/projects/mage						Smooth water lighting
+Mantle							https://minecraft.curseforge.com/projects/mantle					Required by Tinkers' Construct
+More Chickens					https://minecraft.curseforge.com/projects/more-chickens				Requires Chickens
+More Overlays					https://minecraft.curseforge.com/projects/more-overlays				~
+Mouse Tweaks					https://minecraft.curseforge.com/projects/mouse-tweaks				~
+NetherEx						https://minecraft.curseforge.com/projects/netherex					~
+No Tema Stahp					https://minecraft.curseforge.com/projects/no-tema-stahp				Remove exploits introduced in Extra Utilities
+OpenBlocks						https://minecraft.curseforge.com/projects/openblocks				Elevators!
+OpenModsLib						https://minecraft.curseforge.com/projects/openmodslib				Required by OpenBlocks
+Overloaded Armor Bar			https://minecraft.curseforge.com/projects/overloaded-armor-bar		~
+Primitive Mobs					https://minecraft.curseforge.com/projects/primitive-mobs			~
+ProjectE						https://minecraft.curseforge.com/projects/projecte					~
+Quick Leaf Decay				https://minecraft.curseforge.com/projects/quick-leaf-decay			~
+Random Things					https://minecraft.curseforge.com/projects/random-things				~
+Roguelike Dungeons				https://minecraft.curseforge.com/projects/roguelike-dungeons		~
+Roost							https://minecraft.curseforge.com/projects/roost						~
+Rustic							https://minecraft.curseforge.com/projects/rustic					~
+Shuriken Mod					https://minecraft.curseforge.com/projects/shuriken					~
+Stone Chests					https://minecraft.curseforge.com/projects/stone-chests				~
+TConstruct						https://minecraft.curseforge.com/projects/tinkers-construct			Requires Mantle
+The One Probe					https://minecraft.curseforge.com/projects/the-one-probe				~
+VanillaFix						https://minecraft.curseforge.com/projects/vanillafix				~
+Venomous Fangs					https://minecraft.curseforge.com/projects/venomous-fangs			~
 
-Aquaculture
-https://minecraft.curseforge.com/projects/aquaculture
-
-Better Foliage
-https://minecraft.curseforge.com/projects/better-foliage
-
-BetterFPS
-https://minecraft.curseforge.com/projects/betterfps
-
-Cave Root
-https://minecraft.curseforge.com/projects/cave-root
-
-Chickens
-https://minecraft.curseforge.com/projects/chickens
-
-Familiar Fauna
-https://minecraft.curseforge.com/projects/familiar-fauna
-
-Fossils and Archeology Revival
-https://minecraft.curseforge.com/projects/fossils
-
-Forgelin
-https://minecraft.curseforge.com/projects/shadowfacts-forgelin
-
-Hwyla
-https://minecraft.curseforge.com/projects/hwyla
-
-Inventory Tweaks
-https://minecraft.curseforge.com/projects/inventory-tweaks
-
-iYAMATO's Mod
-https://minecraft.curseforge.com/projects/iyamatos-mod
-
-JEI
-https://minecraft.curseforge.com/projects/jei
-
-KJLib (Required by Cave Root)
-https://minecraft.curseforge.com/projects/kjlib
-
-LLibrary
-https://minecraft.curseforge.com/projects/llibrary
-
-More Chickens
-https://minecraft.curseforge.com/projects/more-chickens
-
-Long Fall Boots
-https://minecraft.curseforge.com/projects/long-fall-boots
-
-Primitive Mobs
-https://minecraft.curseforge.com/projects/primitive-mobs
-
-Roguelike Dungeons
-https://minecraft.curseforge.com/projects/roguelike-dungeons
-
-Roost
-https://minecraft.curseforge.com/projects/roost
-
-Shuriken Mod
-https://minecraft.curseforge.com/projects/shuriken
-
-Smooth Water
-https://minecraft.curseforge.com/projects/smoothwater
-
-VanillaFix
-https://minecraft.curseforge.com/projects/vanillafix
-
-Venomous Fangs
-https://minecraft.curseforge.com/projects/venomous-fangs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Removed ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Name							URL																	Reason
+Hwyla							https://minecraft.curseforge.com/projects/hwyla						Replaced by The One Probe
+SmoothWater						https://minecraft.curseforge.com/projects/smoothwater				Replaced by MAGE (Graphical Tweaks)
