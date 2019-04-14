@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "normal": [
+			{ "model": "mob_spawner_cage/mob_spawner_cage" },
+			{ "model": "mob_spawner_cage/mob_spawner_cage_2" },
+			{ "model": "mob_spawner_cage/mob_spawner_cage_3" },
+			{ "model": "mob_spawner_cage/mob_spawner_cage_4" },
+			{ "model": "mob_spawner_cage/mob_spawner_cage_5" },
+			{ "model": "mob_spawner_cage/mob_spawner_cage_6" },
+			{ "model": "mob_spawner_cage/mob_spawner_cage_7" },
+			{ "model": "mob_spawner_cage/mob_spawner_cage_8" },
+			{ "model": "mob_spawner_cage/mob_spawner_cage_9" }
+		]
+    }
+}

@@ -1,0 +1,13 @@
+{
+	"textures": {
+	    "particle": "blocks/leaves_birch",
+		"all": "blocks/leaves_birch",
+		"extra": "blocks/better_leaves_birch"
+	},
+    "variants": {
+        "normal": [
+			{ "model": "leaves/better_leaves_birch" },
+			{ "model": "leaves/better_leaves_birch_2" }
+		]
+	}
+}

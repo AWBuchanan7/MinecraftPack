@@ -1,0 +1,44 @@
+{
+    "variants": {
+        "layers=1": [
+			{ "model": "snow/snow_height2" },
+			{ "model": "snow/snow_height2_2" },
+			{ "model": "snow/snow_height2_3" }
+		],
+        "layers=2": [
+			{ "model": "snow/snow_height4" },
+			{ "model": "snow/snow_height4_2" },
+			{ "model": "snow/snow_height4_3" }
+		],
+        "layers=3": [
+			{ "model": "snow/snow_height6" },
+			{ "model": "snow/snow_height6_2" },
+			{ "model": "snow/snow_height6_3" }
+		],
+        "layers=4": [
+			{ "model": "snow/snow_height8" },
+			{ "model": "snow/snow_height8_2" },
+			{ "model": "snow/snow_height8_3" }
+		],
+        "layers=5": [
+			{ "model": "snow/snow_height10" },
+			{ "model": "snow/snow_height10_2" },
+			{ "model": "snow/snow_height10_3" }
+		],
+        "layers=6": [
+			{ "model": "snow/snow_height12" },
+			{ "model": "snow/snow_height12_2" },
+			{ "model": "snow/snow_height12_3" }
+		],
+        "layers=7": [
+			{ "model": "snow/snow_height14" },
+			{ "model": "snow/snow_height14_2" },
+			{ "model": "snow/snow_height14_3" }
+		],
+        "layers=8": [
+			{ "model": "snow/snow" },
+			{ "model": "snow/snow_2" },
+			{ "model": "snow/snow_3" }
+		]
+    }
+}

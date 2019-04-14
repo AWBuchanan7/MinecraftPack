@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [
+			{ "model": "snow/snow" },
+			{ "model": "snow/snow_2" },
+			{ "model": "snow/snow_3" }
+		]
+    }
+}

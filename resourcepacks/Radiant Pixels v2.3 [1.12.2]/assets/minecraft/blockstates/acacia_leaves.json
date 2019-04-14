@@ -1,0 +1,13 @@
+{
+	"textures": {
+	    "particle": "blocks/leaves_acacia",
+		"all": "blocks/leaves_acacia",
+		"extra": "blocks/better_leaves_acacia"
+	},
+    "variants": {
+        "normal": [
+			{ "model": "leaves/better_leaves_acacia" },
+			{ "model": "leaves/better_leaves_acacia_2" }
+		]
+	}
+}

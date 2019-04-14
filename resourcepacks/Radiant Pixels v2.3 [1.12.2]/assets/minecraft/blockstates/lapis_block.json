@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "lapis_block/lapis_block" },
+            { "model": "lapis_block/lapis_block_2" }
+        ]
+    }
+}

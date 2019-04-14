@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "redstone_block/redstone_block" },
+            { "model": "redstone_block/redstone_block_2" }
+        ]
+    }
+}

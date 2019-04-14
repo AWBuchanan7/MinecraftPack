@@ -1,0 +1,13 @@
+{
+	"textures": {
+	    "particle": "blocks/leaves_oak",
+		"all": "blocks/leaves_oak",
+		"extra": "blocks/better_leaves_oak"
+	},
+    "variants": {
+        "normal": [
+			{ "model": "leaves/better_leaves_oak" },
+			{ "model": "leaves/better_leaves_oak_2" }
+		]
+	}
+}

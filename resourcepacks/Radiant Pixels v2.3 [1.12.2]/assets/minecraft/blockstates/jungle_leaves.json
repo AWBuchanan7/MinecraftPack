@@ -1,0 +1,13 @@
+{
+	"textures": {
+	    "particle": "blocks/leaves_jungle",
+		"all": "blocks/leaves_jungle",
+		"extra": "blocks/better_leaves_jungle"
+	},
+    "variants": {
+        "normal": [
+			{ "model": "leaves/better_leaves_jungle" },
+			{ "model": "leaves/better_leaves_jungle_2" }
+		]
+	}
+}

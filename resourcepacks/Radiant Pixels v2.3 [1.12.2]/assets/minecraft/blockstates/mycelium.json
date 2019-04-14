@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "snowy=false": [
+			{ "model": "mycelium/mycelium" },
+			{ "model": "mycelium/mycelium_2" }
+		],
+        "snowy=true": { "model": "grass_snowed" }
+    }
+}

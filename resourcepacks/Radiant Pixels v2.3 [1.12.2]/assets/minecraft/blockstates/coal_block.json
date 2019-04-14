@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "coal_block/coal_block" },
+            { "model": "coal_block/coal_block_2" }
+        ]
+    }
+}
