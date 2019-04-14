@@ -26,6 +26,7 @@ JEI								https://minecraft.curseforge.com/projects/jei						~
 JourneyMap						https://minecraft.curseforge.com/projects/journeymap				~
 KJLib							https://minecraft.curseforge.com/projects/kjlib						Required by Cave Root and Stone Chests
 KleeSlabs						https://minecraft.curseforge.com/projects/kleeslabs					~
+LibEx							https://minecraft.curseforge.com/projects/libraryex					Required by NetherEx
 LibrarianLib					https://minecraft.curseforge.com/projects/librarianlib				Required by Hooked
 LLibrary						https://minecraft.curseforge.com/projects/llibrary					Required by Fossils and Archeology
 Long Fall Boots					https://minecraft.curseforge.com/projects/long-fall-boots			~
