@@ -57,5 +57,8 @@ https://minecraft.curseforge.com/projects/shuriken
 Smooth Water
 https://minecraft.curseforge.com/projects/smoothwater
 
+VanillaFix
+https://minecraft.curseforge.com/projects/vanillafix
+
 Venomous Fangs
 https://minecraft.curseforge.com/projects/venomous-fangs
