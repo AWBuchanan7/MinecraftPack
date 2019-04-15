@@ -53,5 +53,245 @@
     "spawn_type": "NONE",
     "parent_1": "chickens:waterchicken",
     "parent_2": "chickens:logchicken"
+  },
+  "morechickens:arditechicken": {
+    "name": "arditeChicken",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "tconstruct:ingots",
+      "metaID": 1
+    },
+    "drop_item": {
+      "itemID": "tconstruct:ingots",
+      "metaID": 1
+    },
+    "spawn_type": "NONE",
+    "parent_1": "chickens:blazechicken",
+    "parent_2": "chickens:magmachicken"
+  },
+  "morechickens:cobaltchicken": {
+    "name": "cobaltChicken",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "tconstruct:ingots",
+      "metaID": 0
+    },
+    "drop_item": {
+      "itemID": "tconstruct:ingots",
+      "metaID": 0
+    },
+    "spawn_type": "NONE",
+    "parent_1": "chickens:netherwartchicken",
+    "parent_2": "chickens:ghastchicken"
+  },
+  "morechickens:manyullynchicken": {
+    "name": "manyullynChicken",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "tconstruct:ingots",
+      "metaID": 2
+    },
+    "drop_item": {
+      "itemID": "tconstruct:ingots",
+      "metaID": 2
+    },
+    "spawn_type": "NONE",
+    "parent_1": "morechickens:arditechicken",
+    "parent_2": "morechickens:cobaltchicken"
+  },
+  "morechickens:pigironchicken": {
+    "name": "pigIronChicken",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "tconstruct:ingots",
+      "metaID": 4
+    },
+    "drop_item": {
+      "itemID": "tconstruct:ingots",
+      "metaID": 4
+    },
+    "spawn_type": "NONE",
+    "parent_1": "morechickens:bloodslime",
+    "parent_2": "chickens:ironchicken"
+  },
+  "morechickens:knightslimechicken": {
+    "name": "knightSlimeChicken",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "tconstruct:ingots",
+      "metaID": 3
+    },
+    "drop_item": {
+      "itemID": "tconstruct:ingots",
+      "metaID": 3
+    },
+    "spawn_type": "NONE",
+    "parent_1": "morechickens:manyullynchicken",
+    "parent_2": "morechickens:pigironchicken"
+  },
+  "morechickens:bloodslime": {
+    "name": "bloodSlime",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "tconstruct:edible",
+      "metaID": 3
+    },
+    "drop_item": {
+      "itemID": "tconstruct:edible",
+      "metaID": 3
+    },
+    "spawn_type": "NONE",
+    "parent_1": "chickens:slimechicken",
+    "parent_2": "chickens:redchicken"
+  },
+  "morechickens:purpleslime": {
+    "name": "purpleSlime",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "tconstruct:edible",
+      "metaID": 2
+    },
+    "drop_item": {
+      "itemID": "tconstruct:edible",
+      "metaID": 2
+    },
+    "spawn_type": "NONE",
+    "parent_1": "morechickens:bloodslime",
+    "parent_2": "chickens:bluechicken"
+  },
+  "morechickens:magmaslime": {
+    "name": "magmaSlime",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "tconstruct:edible",
+      "metaID": 4
+    },
+    "drop_item": {
+      "itemID": "tconstruct:edible",
+      "metaID": 4
+    },
+    "spawn_type": "NONE",
+    "parent_1": "chickens:slimechicken",
+    "parent_2": "chickens:magmachicken"
+  },
+  "morechickens:blueslime": {
+    "name": "blueSlime",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "tconstruct:edible",
+      "metaID": 1
+    },
+    "drop_item": {
+      "itemID": "tconstruct:edible",
+      "metaID": 1
+    },
+    "spawn_type": "NONE",
+    "parent_1": "chickens:slimechicken",
+    "parent_2": "chickens:bluechicken"
+  },
+  "morechickens:redstonecrystalchicken": {
+    "name": "redstonecrystalchicken",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "extrautils2:ingredients",
+      "metaID": 0
+    },
+    "drop_item": {
+      "itemID": "extrautils2:ingredients",
+      "metaID": 0
+    },
+    "spawn_type": "NONE",
+    "parent_1": "chickens:redstonechicken",
+    "parent_2": "chickens:pcrystalchicken"
+  },
+  "morechickens:stoneburntchicken": {
+    "name": "stoneburntchicken",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "extrautils2:decorativesolid",
+      "metaID": 3
+    },
+    "drop_item": {
+      "itemID": "extrautils2:decorativesolid",
+      "metaID": 3
+    },
+    "spawn_type": "NONE",
+    "parent_1": "morechickens:redstonecrystalchicken",
+    "parent_2": "chickens:goldchicken"
+  },
+  "morechickens:lunarreactivedustchicken": {
+    "name": "lunarreactivedustchicken",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "extrautils2:ingredients",
+      "metaID": 3
+    },
+    "drop_item": {
+      "itemID": "extrautils2:ingredients",
+      "metaID": 3
+    },
+    "spawn_type": "NONE",
+    "parent_1": "morechickens:redstonecrystalchicken",
+    "parent_2": "chickens:bluechicken"
+  },
+  "morechickens:moonstonechicken": {
+    "name": "moonstonechicken",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "extrautils2:ingredients",
+      "metaID": 5
+    },
+    "drop_item": {
+      "itemID": "extrautils2:ingredients",
+      "metaID": 5
+    },
+    "spawn_type": "NONE",
+    "parent_1": "morechickens:lunarreactivedustchicken",
+    "parent_2": "chickens:blazechicken"
+  },
+  "morechickens:magicalwoodchicken": {
+    "name": "magicalwoodchicken",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "extrautils2:decorativesolidwood",
+      "metaID": 1
+    },
+    "drop_item": {
+      "itemID": "extrautils2:decorativesolidwood",
+      "metaID": 1
+    },
+    "spawn_type": "NONE",
+    "parent_1": "chickens:logchicken",
+    "parent_2": "morechickens:xpchicken"
+  },
+  "morechickens:demonmetalchicken": {
+    "name": "demonmetalchicken",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "extrautils2:ingredients",
+      "metaID": 11
+    },
+    "drop_item": {
+      "itemID": "extrautils2:ingredients",
+      "metaID": 11
+    },
+    "spawn_type": "NONE",
+    "parent_1": "morechickens:magicalwoodchicken",
+    "parent_2": "morechickens:moonstonechicken"
   }
 }
