@@ -14,6 +14,7 @@ Cooking for Blockheads			https://minecraft.curseforge.com/projects/cooking-for-b
 Crafting Tweaks					https://minecraft.curseforge.com/projects/crafting-tweaks			~
 Cyclic							https://minecraft.curseforge.com/projects/cyclic					~
 Diet Hoppers					https://minecraft.curseforge.com/projects/diet-hoppers				~
+OpenBlocks Elevator				https://minecraft.curseforge.com/projects/openblocks-elevator		~
 Extra Utilities					https://minecraft.curseforge.com/projects/extra-utilities			~
 Familiar Fauna					https://minecraft.curseforge.com/projects/familiar-fauna			~
 FastWorkbench					https://minecraft.curseforge.com/projects/fastworkbench				~
@@ -48,8 +49,6 @@ Natura							https://minecraft.curseforge.com/projects/natura					Requires Mantl
 NetherEx						https://minecraft.curseforge.com/projects/netherex					~
 xNICEx							https://minecraft.curseforge.com/projects/xnicex					Aquariums!
 No Tema Stahp					https://minecraft.curseforge.com/projects/no-tema-stahp				Remove exploits introduced in Extra Utilities
-OpenBlocks						https://minecraft.curseforge.com/projects/openblocks				Elevators!
-OpenModsLib						https://minecraft.curseforge.com/projects/openmodslib				Required by OpenBlocks
 Overloaded Armor Bar			https://minecraft.curseforge.com/projects/overloaded-armor-bar		~
 Pam's Harvestcraft				https://minecraft.curseforge.com/projects/pams-harvestcraft			~
 Pam's Simple Recipes			https://minecraft.curseforge.com/projects/pams-simple-recipes		~
