@@ -15,6 +15,7 @@ Cooking for Blockheads			https://minecraft.curseforge.com/projects/cooking-for-b
 Crafting Tweaks					https://minecraft.curseforge.com/projects/crafting-tweaks			~
 Cyclic							https://minecraft.curseforge.com/projects/cyclic					~
 Diet Hoppers					https://minecraft.curseforge.com/projects/diet-hoppers				~
+DynamicLights                   https://minecraft.curseforge.com/projects/dynamic-lights            ~
 OpenBlocks Elevator				https://minecraft.curseforge.com/projects/openblocks-elevator		~
 Extra Utilities					https://minecraft.curseforge.com/projects/extra-utilities			~
 Familiar Fauna					https://minecraft.curseforge.com/projects/familiar-fauna			~
