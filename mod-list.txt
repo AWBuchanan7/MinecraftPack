@@ -10,6 +10,7 @@ Bullseye						https://minecraft.curseforge.com/projects/bullseye					~
 Cave Root						https://minecraft.curseforge.com/projects/cave-root					~
 Chickens						https://minecraft.curseforge.com/projects/chickens					~
 Controlling						https://minecraft.curseforge.com/projects/controlling				~
+ConnectedTexturesMod            https://minecraft.curseforge.com/projects/ctm                       ~
 Cooking for Blockheads			https://minecraft.curseforge.com/projects/cooking-for-blockheads	~
 Crafting Tweaks					https://minecraft.curseforge.com/projects/crafting-tweaks			~
 Cyclic							https://minecraft.curseforge.com/projects/cyclic					~
