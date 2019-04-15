@@ -3,6 +3,7 @@ Name							URL																	Comments
 Appleskin						https://minecraft.curseforge.com/projects/appleskin					~
 Aquaculture						https://minecraft.curseforge.com/projects/aquaculture				~
 Baubles							https://minecraft.curseforge.com/projects/baubles					Required by Hooked
+Bed Patch						https://minecraft.curseforge.com/projects/bed-patch					~
 Better Foliage					https://minecraft.curseforge.com/projects/better-foliage			Requires Shadowfacts' Forgelin
 BetterFPS						https://minecraft.curseforge.com/projects/betterfps					~
 Bullseye						https://minecraft.curseforge.com/projects/bullseye					~
@@ -12,17 +13,22 @@ Controlling						https://minecraft.curseforge.com/projects/controlling				~
 Cooking for Blockheads			https://minecraft.curseforge.com/projects/cooking-for-blockheads	~
 Crafting Tweaks					https://minecraft.curseforge.com/projects/crafting-tweaks			~
 Cyclic							https://minecraft.curseforge.com/projects/cyclic					~
+Diet Hoppers					https://minecraft.curseforge.com/projects/diet-hoppers				~
 Extra Utilities					https://minecraft.curseforge.com/projects/extra-utilities			~
 Familiar Fauna					https://minecraft.curseforge.com/projects/familiar-fauna			~
 FastWorkbench					https://minecraft.curseforge.com/projects/fastworkbench				~
 Fence Jumper					https://minecraft.curseforge.com/projects/fence-jumper				~
+FoamFix							https://minecraft.curseforge.com/projects/foamfix-for-minecraft		~
 Forgelin (Shadowfacts')			https://minecraft.curseforge.com/projects/shadowfacts-forgelin		Required by Better Foliage
 Fossils and Archeology Revival	https://minecraft.curseforge.com/projects/fossils					~
 Hatchery						https://minecraft.curseforge.com/projects/hatchery					Complements Chickens and Roost
 Hooked							https://minecraft.curseforge.com/projects/hooked					~
+InGame Info XML					https://minecraft.curseforge.com/projects/ingame-info-xml			Requires LunatriusCore
 Inventory Tweaks				https://minecraft.curseforge.com/projects/inventory-tweaks			~
 iYAMATO's Mod					https://minecraft.curseforge.com/projects/iyamatos-mod				~
+JEHc							https://minecraft.curseforge.com/projects/just-enough-harvestcraft	~
 JEI								https://minecraft.curseforge.com/projects/jei						~
+JEI Integration					https://minecraft.curseforge.com/projects/jei-integration			~
 JourneyMap						https://minecraft.curseforge.com/projects/journeymap				~
 KJLib							https://minecraft.curseforge.com/projects/kjlib						Required by Cave Root and Stone Chests
 KleeSlabs						https://minecraft.curseforge.com/projects/kleeslabs					~
@@ -30,29 +36,40 @@ LibEx							https://minecraft.curseforge.com/projects/libraryex					Required by 
 LibrarianLib					https://minecraft.curseforge.com/projects/librarianlib				Required by Hooked
 LLibrary						https://minecraft.curseforge.com/projects/llibrary					Required by Fossils and Archeology
 Long Fall Boots					https://minecraft.curseforge.com/projects/long-fall-boots			~
+LunatriusCore					https://minecraft.curseforge.com/projects/lunatriuscore				Required by 
 MAGE (Graphical Tweaks)			https://minecraft.curseforge.com/projects/mage						Smooth water lighting
 Mantle							https://minecraft.curseforge.com/projects/mantle					Required by Natura and Tinkers' Construct
+McJtyLib						https://minecraft.curseforge.com/projects/mcjtylib					Required by xNICEx
+Mod Name Tooltip				https://minecraft.curseforge.com/projects/mod-name-tooltip			~
 More Chickens					https://minecraft.curseforge.com/projects/more-chickens				Requires Chickens
 More Overlays					https://minecraft.curseforge.com/projects/more-overlays				~
 Mouse Tweaks					https://minecraft.curseforge.com/projects/mouse-tweaks				~
 Natura							https://minecraft.curseforge.com/projects/natura					Requires Mantle
 NetherEx						https://minecraft.curseforge.com/projects/netherex					~
+xNICEx							https://minecraft.curseforge.com/projects/xnicex					Aquariums!
 No Tema Stahp					https://minecraft.curseforge.com/projects/no-tema-stahp				Remove exploits introduced in Extra Utilities
 OpenBlocks						https://minecraft.curseforge.com/projects/openblocks				Elevators!
 OpenModsLib						https://minecraft.curseforge.com/projects/openmodslib				Required by OpenBlocks
 Overloaded Armor Bar			https://minecraft.curseforge.com/projects/overloaded-armor-bar		~
 Pam's Harvestcraft				https://minecraft.curseforge.com/projects/pams-harvestcraft			~
+Pam's Simple Recipes			https://minecraft.curseforge.com/projects/pams-simple-recipes		~
+Pam's Cookables					https://minecraft.curseforge.com/projects/pams-cookables			~
+Placebo							https://minecraft.curseforge.com/projects/placebo					Required by Toast Control
 Primitive Mobs					https://minecraft.curseforge.com/projects/primitive-mobs			~
 ProjectE						https://minecraft.curseforge.com/projects/projecte					~
 Quick Leaf Decay				https://minecraft.curseforge.com/projects/quick-leaf-decay			~
+RandomPatches					https://minecraft.curseforge.com/projects/randompatches				~
 Random Things					https://minecraft.curseforge.com/projects/random-things				~
 Roguelike Dungeons				https://minecraft.curseforge.com/projects/roguelike-dungeons		~
 Roost							https://minecraft.curseforge.com/projects/roost						~
 Rustic							https://minecraft.curseforge.com/projects/rustic					~
 Shuriken Mod					https://minecraft.curseforge.com/projects/shuriken					~
+SwingThroughGrass				https://minecraft.curseforge.com/projects/swingthroughgrass			~
 Stone Chests					https://minecraft.curseforge.com/projects/stone-chests				~
 TConstruct						https://minecraft.curseforge.com/projects/tinkers-construct			Requires Mantle
 The One Probe					https://minecraft.curseforge.com/projects/the-one-probe				~
+Toast Control					https://minecraft.curseforge.com/projects/toast-control				Requires Placebo
+TOP Addons						https://minecraft.curseforge.com/projects/top-addons				~
 VanillaFix						https://minecraft.curseforge.com/projects/vanillafix				~
 Venomous Fangs					https://minecraft.curseforge.com/projects/venomous-fangs			~
 
