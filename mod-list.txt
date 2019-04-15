@@ -62,7 +62,6 @@ Random Things					https://minecraft.curseforge.com/projects/random-things				~
 Roguelike Dungeons				https://minecraft.curseforge.com/projects/roguelike-dungeons		~
 Roost							https://minecraft.curseforge.com/projects/roost						~
 Rustic							https://minecraft.curseforge.com/projects/rustic					~
-Shuriken Mod					https://minecraft.curseforge.com/projects/shuriken					~
 SwingThroughGrass				https://minecraft.curseforge.com/projects/swingthroughgrass			~
 Stone Chests					https://minecraft.curseforge.com/projects/stone-chests				~
 TConstruct						https://minecraft.curseforge.com/projects/tinkers-construct			Requires Mantle
