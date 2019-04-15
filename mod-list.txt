@@ -62,6 +62,7 @@ Random Things					https://minecraft.curseforge.com/projects/random-things				~
 Roguelike Dungeons				https://minecraft.curseforge.com/projects/roguelike-dungeons		~
 Roost							https://minecraft.curseforge.com/projects/roost						~
 Rustic							https://minecraft.curseforge.com/projects/rustic					~
+Smooth Font						https://minecraft.curseforge.com/projects/smooth-font				~
 Shuriken Mod					https://minecraft.curseforge.com/projects/shuriken					~
 SwingThroughGrass				https://minecraft.curseforge.com/projects/swingthroughgrass			~
 Stone Chests					https://minecraft.curseforge.com/projects/stone-chests				~
