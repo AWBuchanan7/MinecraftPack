@@ -26,6 +26,7 @@ Forgelin (Shadowfacts')			https://minecraft.curseforge.com/projects/shadowfacts-
 Fossils and Archeology Revival	https://minecraft.curseforge.com/projects/fossils					~
 Hatchery						https://minecraft.curseforge.com/projects/hatchery					Complements Chickens and Roost
 Hooked							https://minecraft.curseforge.com/projects/hooked					~
+Infernal Mobs                   https://minecraft.curseforge.com/projects/atomicstrykers-infernal-mobs
 InGame Info XML					https://minecraft.curseforge.com/projects/ingame-info-xml			Requires LunatriusCore
 Inventory Tweaks				https://minecraft.curseforge.com/projects/inventory-tweaks			~
 iYAMATO's Mod					https://minecraft.curseforge.com/projects/iyamatos-mod				~
