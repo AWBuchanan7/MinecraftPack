@@ -72,6 +72,7 @@ TConstruct						https://minecraft.curseforge.com/projects/tinkers-construct			Re
 The One Probe					https://minecraft.curseforge.com/projects/the-one-probe				~
 Toast Control					https://minecraft.curseforge.com/projects/toast-control				Requires Placebo
 TOP Addons						https://minecraft.curseforge.com/projects/top-addons				~
+Vampirism                       https://minecraft.curseforge.com/projects/vampirism-become-a-vampire
 VanillaFix						https://minecraft.curseforge.com/projects/vanillafix				~
 Venomous Fangs					https://minecraft.curseforge.com/projects/venomous-fangs			~
 
