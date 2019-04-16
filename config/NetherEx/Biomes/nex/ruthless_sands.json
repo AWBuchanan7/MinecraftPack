@@ -187,6 +187,30 @@
       "minGroupCount": 3,
       "maxGroupCount": 5,
       "spawn": true
+    },
+    {
+      "entity": "natura:nitrocreeper",
+      "creatureType": "monster",
+      "weight": 8,
+      "minGroupCount": 4,
+      "maxGroupCount": 6,
+      "spawn": true
+    },
+    {
+      "entity": "chickens:chickenschicken",
+      "creatureType": "creature",
+      "weight": 10,
+      "minGroupCount": 3,
+      "maxGroupCount": 5,
+      "spawn": true
+    },
+    {
+      "entity": "natura:imp",
+      "creatureType": "creature",
+      "weight": 10,
+      "minGroupCount": 8,
+      "maxGroupCount": 12,
+      "spawn": true
     }
   ],
   "features": [

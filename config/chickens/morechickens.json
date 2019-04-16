@@ -293,5 +293,37 @@
     "spawn_type": "NONE",
     "parent_1": "morechickens:magicalwoodchicken",
     "parent_2": "morechickens:moonstonechicken"
+  },
+  "morechickens:sulfurchicken": {
+    "name": "sulfurchicken",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "natura:materials",
+      "metaID": 4
+    },
+    "drop_item": {
+      "itemID": "natura:materials",
+      "metaID": 4
+    },
+    "spawn_type": "NONE",
+    "parent_1": "chickens:gunpowderchicken",
+    "parent_2": "chickens:flintchicken"
+  },
+  "morechickens:saltchicken": {
+    "name": "saltchicken",
+    "is_enabled": true,
+    "lay_coefficient": 1.0,
+    "lay_item": {
+      "itemID": "harvestcraft:saltitem",
+      "metaID": 0
+    },
+    "drop_item": {
+      "itemID": "harvestcraft:saltitem",
+      "metaID": 0
+    },
+    "spawn_type": "NONE",
+    "parent_1": "chickens:waterchicken",
+    "parent_2": "chickens:lavachicken"
   }
 }
