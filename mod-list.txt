@@ -22,9 +22,9 @@ FamiliarFauna			1.0.11		https://minecraft.curseforge.com/projects/familiar-fauna
 FastWorkbench			1.6.1		https://minecraft.curseforge.com/projects/fastworkbench					~
 fencejumper				1.0.5		https://minecraft.curseforge.com/projects/fence-jumper					~
 foamfix					0.10.5		https://minecraft.curseforge.com/projects/foamfix-for-minecraft			~
-Forgelin				1.8.2		https://minecraft.curseforge.com/projects/shadowfacts-forgelin			Required by Better Foliage
+Forgelin				1.8.2		https://minecraft.curseforge.com/projects/shadowfacts-forgelin			Required by BetterFoliage
 fossilsarcheology		8.0.0		https://minecraft.curseforge.com/projects/fossils						~
-hatchery				2.2.1		https://minecraft.curseforge.com/projects/hatchery						Complements Chickens and Roost
+hatchery				2.2.1		https://minecraft.curseforge.com/projects/hatchery						Complements chickens and roost
 hooked					1.0.3		https://minecraft.curseforge.com/projects/hooked						Requires Baubles and LibrarianLib
 InfernalMobs			16.12.2017	https://minecraft.curseforge.com/projects/atomicstrykers-infernal-mobs	~
 InGameInfoXML			2.8.2.94	https://minecraft.curseforge.com/projects/ingame-info-xml				Requires LunatriusCore
@@ -34,16 +34,16 @@ jehc					1.6.3		https://minecraft.curseforge.com/projects/just-enough-harvestcra
 jei						4.15.0.268	https://minecraft.curseforge.com/projects/jei							~
 jeiintegration			1.5.1.36	https://minecraft.curseforge.com/projects/jei-integration				~
 journeymap				5.5.4		https://minecraft.curseforge.com/projects/journeymap					~
-kjlib					1.0.4		https://minecraft.curseforge.com/projects/kjlib							Required by Cave Root and Stone Chests
+kjlib					1.0.4		https://minecraft.curseforge.com/projects/kjlib							Required by caveroot and stonechests
 KleeSlabs				5.4.11		https://minecraft.curseforge.com/projects/kleeslabs						~
 LibEx					1.0.8		https://minecraft.curseforge.com/projects/libraryex						Required by NetherEx
-librarianlib			4.15		https://minecraft.curseforge.com/projects/librarianlib					Required by Hooked
-llibrary				1.7.18		https://minecraft.curseforge.com/projects/llibrary						Required by Fossils and Archeology
+librarianlib			4.15		https://minecraft.curseforge.com/projects/librarianlib					Required by hooked
+llibrary				1.7.18		https://minecraft.curseforge.com/projects/llibrary						Required by fossilsarcheology
 longfallboots			1.2.1b		https://minecraft.curseforge.com/projects/long-fall-boots				~
-LunatriusCore			1.2.0.42	https://minecraft.curseforge.com/projects/lunatriuscore					Required by InGame Info XML
+LunatriusCore			1.2.0.42	https://minecraft.curseforge.com/projects/lunatriuscore					Required by InGameInfoXML
 MAGE					0.2.4		https://minecraft.curseforge.com/projects/mage							Smooth water lighting (Disabled true darkness)
-Mantle					1.3.3.49	https://minecraft.curseforge.com/projects/mantle						Required by Natura and Tinkers' Construct
-mcjtylib				3.1.1		https://minecraft.curseforge.com/projects/mcjtylib						Required by xNICEx
+Mantle					1.3.3.49	https://minecraft.curseforge.com/projects/mantle						Required by Natura and TConstruct
+mcjtylib				3.1.1		https://minecraft.curseforge.com/projects/mcjtylib						Required by nice
 modnametooltip			1.10.0		https://minecraft.curseforge.com/projects/mod-name-tooltip				~
 morechickens			3.1.0		https://minecraft.curseforge.com/projects/more-chickens					Requires chickens
 moreoverlays			1.14		https://minecraft.curseforge.com/projects/more-overlays					~
@@ -65,7 +65,7 @@ QuickLeafDecay			1.2.4		https://minecraft.curseforge.com/projects/quick-leaf-dec
 randompatches			1.15.0.2	https://minecraft.curseforge.com/projects/randompatches					~
 RandomThings			4.2.7.1		https://minecraft.curseforge.com/projects/random-things					~
 RoguelikeDungeons		1.8.0		https://minecraft.curseforge.com/projects/roguelike-dungeons			~
-roost					2.0.9		https://minecraft.curseforge.com/projects/roost							~
+roost					2.0.9		https://minecraft.curseforge.com/projects/roost							Complements chickens and hatchery
 rustic					1.1.0		https://minecraft.curseforge.com/projects/rustic						~
 SmoothFont				1.16.2		https://minecraft.curseforge.com/projects/smooth-font					~
 stg						1.2.3		https://minecraft.curseforge.com/projects/swingthroughgrass				~
