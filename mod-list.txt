@@ -2,12 +2,12 @@
 Name							Version		URL																		Comments
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 AbyssalCraft+Integration		1.8.1		https://minecraft.curseforge.com/projects/abyssalcraft-integration		Requires AbyssalCraft. Integrates w/ ProjectE and TConstruct
-AbyssalCraft					1.9.6		https://minecraft.curseforge.com/projects/abyssalcraft					Required by AbyssalCraft+Integrations
+AbyssalCraft					1.9.6		https://minecraft.curseforge.com/projects/abyssalcraft					Required by AbyssalCraft+Integrations. Integrates w/ jei
 AdChimneys						0277		https://minecraft.curseforge.com/projects/advanced-chimneys				Requires ForgeEndertech. Integrates w/ AdPother, CookingForBlockheads, furniture, Mekanism, MysticalAgriculture, ProjectE, railcraft, TConstruct and weather2
 AdditionalBanners				1.1.76		https://minecraft.curseforge.com/projects/additional-banners			Integrates w/ cosmeticbeds
 Additional-Compression			3.3			https://minecraft.curseforge.com/projects/additional-compression		Integrates w/ extrautils2
 AdPother						0296		https://minecraft.curseforge.com/projects/pollution-of-the-realms		Requires ForgeEndertech. Integrates w/ AdChimneys, Baubles, CookingForBlockheads, FloodLights, furniture, Immersive+Vehicles, Mekanism, MysticalAgriculture, Pam's+Harvestcraft, pollutantpump, ProjectE, railcraft, TConstruct and weather2
-AnvilFix
+AnvilFix						1.0.3		https://minecraft.curseforge.com/projects/anvil-fix						
 AppleSkin						1.0.9		https://minecraft.curseforge.com/projects/appleskin						~
 Aquaculture						1.6.8		https://minecraft.curseforge.com/projects/aquaculture					~
 armorplus						11.22.0.58	https://minecraft.curseforge.com/projects/armorplus						Requires thedragonlib. Integrates w/ Baubles, jei, ProjectE, ProjectEIntegration, theoneprobe and TConstruct
@@ -42,6 +42,7 @@ Bloodmoon
 bonsaitrees
 BowInfinityFix
 Bullseye						3.0.7		https://minecraft.curseforge.com/projects/bullseye						~
+By+The+Gods						1.0.1		https://minecraft.curseforge.com/projects/by-the-gods					Requires AbyssalCraft
 caveroot						1.1.1		https://minecraft.curseforge.com/projects/cave-root						~
 ChanceCubes
 ChatTweaks
@@ -192,7 +193,7 @@ rustic							1.1.0		https://minecraft.curseforge.com/projects/rustic						~
 rusticbopwoods
 SeasonalBees
 secretroomsmod
-SecurityCraft
+SecurityCraft					1.8.12		
 SharpBone
 Slab_Machines
 SmoothFont						1.16.2		https://minecraft.curseforge.com/projects/smooth-font					~
