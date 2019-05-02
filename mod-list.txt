@@ -1,8 +1,9 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Added ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Name							Version		URL																			Comments
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+SecurityCraft					1.8.12		https://minecraft.curseforge.com/projects/security-craft					Integrates w/ jei
 AbyssalCraft+Integration		1.8.1		https://minecraft.curseforge.com/projects/abyssalcraft-integration			Requires AbyssalCraft. Integrates w/ ProjectE and TConstruct
-AbyssalCraft					1.9.6		https://minecraft.curseforge.com/projects/abyssalcraft						Required by AbyssalCraft+Integrations. Integrates w/ jei
+AbyssalCraft					1.9.7		https://minecraft.curseforge.com/projects/abyssalcraft						Required by AbyssalCraft+Integrations. Integrates w/ jei
 AdChimneys						0277		https://minecraft.curseforge.com/projects/advanced-chimneys					Requires ForgeEndertech. Integrates w/ AdPother, CookingForBlockheads, furniture, Mekanism, MysticalAgriculture, ProjectE, railcraft, TConstruct and weather2
 AdditionalBanners				1.1.76		https://minecraft.curseforge.com/projects/additional-banners				Integrates w/ cosmeticbeds
 Additional-Compression			3.3			https://minecraft.curseforge.com/projects/additional-compression			Integrates w/ extrautils2
@@ -68,7 +69,7 @@ DynamicSurroundings				3.5.4.3		https://minecraft.curseforge.com/projects/dynami
 EerieEntities					1.0.6		https://minecraft.curseforge.com/projects/eerie-entities					Requires Bookshelf
 emcbuilderswand					1.2			https://minecraft.curseforge.com/projects/emc-builders-wand					Requires BetterBuildersWands and ProjectE
 EnchantingPlus					5.0.176		https://minecraft.curseforge.com/projects/enchanting-plus					Requires Bookshelf
-EnchantmentDescriptions			1.1.13		https://minecraft.curseforge.com/projects/enchantment-descriptions
+EnchantmentDescriptions			1.1.13		https://minecraft.curseforge.com/projects/enchantment-descriptions			
 EnderIO-zoo						5.0.43		https://minecraft.curseforge.com/projects/ender-io-zoo
 ExtraGolems						7.1.4		https://minecraft.curseforge.com/projects/extra-golems
 ExtraRails						1.3.0		https://minecraft.curseforge.com/projects/extra-rails
@@ -198,7 +199,6 @@ rustic							1.1.0		https://minecraft.curseforge.com/projects/rustic							~
 rusticbopwoods					1.0			https://minecraft.curseforge.com/projects/rustic-bop-woods
 SeasonalBees					1.0			https://minecraft.curseforge.com/projects/seasonal-bees
 secretroomsmod					5.6.4		https://minecraft.curseforge.com/projects/secretroomsmod
-SecurityCraft					1.8.12		https://minecraft.curseforge.com/projects/security-craft
 SereneSeasons					1.2.15		https://minecraft.curseforge.com/projects/serene-seasons
 SharpBone						1.0			https://minecraft.curseforge.com/projects/sharpbone
 SimplyArrows					1.0.4		https://minecraft.curseforge.com/projects/simply-arrows						Requires Bookshelf
