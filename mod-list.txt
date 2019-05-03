@@ -108,8 +108,8 @@ ironchest							7.0.59		https://minecraft.curseforge.com/projects/iron-chests			
 IvToolkit							1.3.3		https://minecraft.curseforge.com/projects/ivtoolkit								Required by recurrent-complex
 iYAMATOs_mod						0.0.6		https://minecraft.curseforge.com/projects/iyamatos-mod							~
 jehc								1.6.3		https://minecraft.curseforge.com/projects/just-enough-harvestcraft				~
-jei									4.15.0.268	https://minecraft.curseforge.com/projects/jei									~
-jeiintegration						1.5.1.36	https://minecraft.curseforge.com/projects/jei-integration						~
+jei									4.15.0.268	https://minecraft.curseforge.com/projects/jei									Required by beebetteratbees, block-drops-jei-addon, jeiintegration, jei-villagers, JustEnoughCalculations, just-enough-harvestcraft, just-enough-pattern-banners, JustEnoughResources, jetif and tinkers-jei
+jeiintegration						1.5.1.36	https://minecraft.curseforge.com/projects/jei-integration						Requires jei
 jeivillagers						1.0.2		https://minecraft.curseforge.com/projects/jei-villagers							
 jepb								1.2.1		https://minecraft.curseforge.com/projects/just-enough-pattern-banners			
 jetif								1.4.1		https://minecraft.curseforge.com/projects/jetif									
