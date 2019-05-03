@@ -69,10 +69,10 @@ DynamicSurroundings				3.5.4.3		https://minecraft.curseforge.com/projects/dynami
 EerieEntities					1.0.6		https://minecraft.curseforge.com/projects/eerie-entities					Requires Bookshelf
 emcbuilderswand					1.2			https://minecraft.curseforge.com/projects/emc-builders-wand					Requires BetterBuildersWands and ProjectE
 EnchantingPlus					5.0.176		https://minecraft.curseforge.com/projects/enchanting-plus					Requires Bookshelf
-EnchantmentDescriptions			1.1.13		https://minecraft.curseforge.com/projects/enchantment-descriptions			
-EnderIO-zoo						5.0.43		https://minecraft.curseforge.com/projects/ender-io-zoo
-ExtraGolems						7.1.4		https://minecraft.curseforge.com/projects/extra-golems
-ExtraRails						1.3.0		https://minecraft.curseforge.com/projects/extra-rails
+EnchantmentDescriptions			1.1.13		https://minecraft.curseforge.com/projects/enchantment-descriptions			Integrates w/ Cyclic
+EnderIO-zoo						5.0.43		https://minecraft.curseforge.com/projects/ender-io-zoo						~
+ExtraGolems						7.1.4		https://minecraft.curseforge.com/projects/extra-golems						Required by TinkersGolemsAddon
+ExtraRails						1.3.0		https://minecraft.curseforge.com/projects/extra-rails						Requires ShadowMC
 extrautils2						1.9.9		https://minecraft.curseforge.com/projects/extra-utilities					~
 fairylights						2.1.6		https://minecraft.curseforge.com/projects/fairy-lights
 FamiliarFauna					1.0.11		https://minecraft.curseforge.com/projects/familiar-fauna					~
@@ -200,6 +200,7 @@ rusticbopwoods					1.0			https://minecraft.curseforge.com/projects/rustic-bop-wo
 SeasonalBees					1.0			https://minecraft.curseforge.com/projects/seasonal-bees
 secretroomsmod					5.6.4		https://minecraft.curseforge.com/projects/secretroomsmod
 SereneSeasons					1.2.15		https://minecraft.curseforge.com/projects/serene-seasons
+ShadowMC						3.8.0		https://minecraft.curseforge.com/projects/shadowmc
 SharpBone						1.0			https://minecraft.curseforge.com/projects/sharpbone
 SimplyArrows					1.0.4		https://minecraft.curseforge.com/projects/simply-arrows						Requires Bookshelf
 Slab_Machines					1.0.5		https://minecraft.curseforge.com/projects/slab-machines
