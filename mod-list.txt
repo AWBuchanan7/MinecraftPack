@@ -136,42 +136,42 @@ malisisdoors						7.3.0		https://minecraft.curseforge.com/projects/malisisdoors	
 Mantle								1.3.3.49	https://minecraft.curseforge.com/projects/mantle								Required by armory-expansion, conarm, inspirations, Natura, tinkers-addons, tinkers-arsenal and TConstruct, tinkers-tool-leveling
 mcjtylib							3.1.1		https://minecraft.curseforge.com/projects/mcjtylib								Required by nice
 MCMultiPart							2.5.3		https://minecraft.curseforge.com/projects/mcmultipart							Required by EDX-Multipart and slab-machines. Integrates w/ Mekanism
-megaloot							0.2.30		https://minecraft.curseforge.com/projects/megaloot								
-Mekanism							373			https://minecraft.curseforge.com/projects/mekanism
-MekanismTools						373			https://minecraft.curseforge.com/projects/mekanism-tools
-Mineralogy							3.4.0.29	https://minecraft.curseforge.com/projects/minecraft-mineralogy
+megaloot							0.2.30		https://minecraft.curseforge.com/projects/megaloot								Requires Baubles
+Mekanism							373			https://minecraft.curseforge.com/projects/mekanism								Required by Mekanism Tools. Integrates w/ AdChimneys, AdPother, Cyclic, jei, MCMultiPart, ProjectEIntegration and the-one-probe
+MekanismTools						373			https://minecraft.curseforge.com/projects/mekanism-tools						Requires Mekanism
+Mineralogy							3.4.0.29	https://minecraft.curseforge.com/projects/minecraft-mineralogy					~
 modnametooltip						1.10.0		https://minecraft.curseforge.com/projects/mod-name-tooltip						~
-morebeautifulbuttons				1.7.3.20	https://minecraft.curseforge.com/projects/more-beautiful-buttons
-morebeautifulplates					1.0.3		https://minecraft.curseforge.com/projects/more-beautiful-plates
-morebees							2.0.1		https://minecraft.curseforge.com/projects/more-bees
+morebeautifulbuttons				1.7.3.20	https://minecraft.curseforge.com/projects/more-beautiful-buttons				~
+morebeautifulplates					1.0.3		https://minecraft.curseforge.com/projects/more-beautiful-plates					~
+morebees							2.0.1		https://minecraft.curseforge.com/projects/more-bees								Requires forestry and Forgelin
 morechickens						3.1.0		https://minecraft.curseforge.com/projects/more-chickens							Requires chickens				
-moreoverlays						1.14		https://minecraft.curseforge.com/projects/more-overlays							~
-Morpheus							3.5.106		https://minecraft.curseforge.com/projects/morpheus
+moreoverlays						1.14		https://minecraft.curseforge.com/projects/more-overlays							Integrates w/ jei
+Morpheus							3.5.106		https://minecraft.curseforge.com/projects/morpheus								Integrates w/ rpintegration
 MouseTweaks							2.10		https://minecraft.curseforge.com/projects/mouse-tweaks							~
-mowziesmobs							1.5.4		https://minecraft.curseforge.com/projects/mowzies-mobs
-MysticalAgradditions				1.3.2		https://minecraft.curseforge.com/projects/mystical-agradditions
-MysticalAgriculture					1.7.5		https://minecraft.curseforge.com/projects/mystical-agriculture
-mysticallib							1.1.1		https://minecraft.curseforge.com/projects/mysticallib
-natura								4.3.2.66	https://minecraft.curseforge.com/projects/natura								Requires Mantle
+mowziesmobs							1.5.4		https://minecraft.curseforge.com/projects/mowzies-mobs							Requires llibrary
+MysticalAgradditions				1.3.2		https://minecraft.curseforge.com/projects/mystical-agradditions					Requires Cucumber and MysticalAgriculture. Integrates w/ armory-expansion
+MysticalAgriculture					1.7.5		https://minecraft.curseforge.com/projects/mystical-agriculture					Requires Cucumber. Required by MysticalAgradditions. Integrates w/ AdChimneys, AdPother, armory-expansion and ProjectEIntegration
+mysticallib							1.1.1		https://minecraft.curseforge.com/projects/mysticallib							Required by blockcraftery
+natura								4.3.2.66	https://minecraft.curseforge.com/projects/natura								Requires Mantle. Integrates w/ universalbestiary
 NetherEx							2.0.8		https://minecraft.curseforge.com/projects/netherex								Requires LibEx
-NewAgeBeeBreeding					1.0.4		https://minecraft.curseforge.com/projects/nabb
-nice								0.3.2		https://minecraft.curseforge.com/projects/xnicex								Aquariums!
-NoAutoJump							1.1			https://minecraft.curseforge.com/projects/no-auto-jump
-NomadicTents						9.2.0		https://minecraft.curseforge.com/projects/nomadic-tents
-NoMobSpawningOnTrees				1.2.2		https://minecraft.curseforge.com/projects/no-mob-spawning-on-trees
-NoNVFlash							1.2.0.3		https://minecraft.curseforge.com/projects/no-night-vision-flashing
+NewAgeBeeBreeding					1.0.4		https://minecraft.curseforge.com/projects/nabb									Requires forestry
+nice								0.3.2		https://minecraft.curseforge.com/projects/xnicex								Requires mcjtylib. Integrates w/ the-one-probe
+NoAutoJump							1.1			https://minecraft.curseforge.com/projects/no-auto-jump							~
+NomadicTents						9.2.0		https://minecraft.curseforge.com/projects/nomadic-tents							~
+NoMobSpawningOnTrees				1.2.2		https://minecraft.curseforge.com/projects/no-mob-spawning-on-trees				~
+NoNVFlash							1.2.0.3		https://minecraft.curseforge.com/projects/no-night-vision-flashing				~
 NoTemaStahp							1.0.3		https://minecraft.curseforge.com/projects/no-tema-stahp							Remove exploits introduced in extrautils2
-omlib								162			https://minecraft.curseforge.com/projects/omlib
-OpenBlocks							1.8.1		https://minecraft.curseforge.com/projects/openblocks							~
+omlib								162			https://minecraft.curseforge.com/projects/omlib									Required by openmodularturrets
+OpenBlocks							1.8.1		https://minecraft.curseforge.com/projects/openblocks							Requires OpenModsLib. Integrates w/ universalbestiary
 OpenModsLib							0.12.2		https://minecraft.curseforge.com/projects/openmodslib							Required by OpenBlocks
-openmodularturrets					3.0.1-264	https://minecraft.curseforge.com/projects/openmodularturrets
-OreExcavation						1.4.140		https://minecraft.curseforge.com/projects/ore-excavation
-OreLib								3.5.2.2		https://minecraft.curseforge.com/projects/orelib
-OreSpawn							3.3.1.172	https://minecraft.curseforge.com/projects/mmd-orespawn
+openmodularturrets					3.0.1-264	https://minecraft.curseforge.com/projects/openmodularturrets					Requires omlib
+OreExcavation						1.4.140		https://minecraft.curseforge.com/projects/ore-excavation						~
+OreLib								3.5.2.2		https://minecraft.curseforge.com/projects/orelib								Required by DynamicSurroundings
+OreSpawn							3.3.1.172	https://minecraft.curseforge.com/projects/mmd-orespawn							Required by DenseMetals and Mineralogy
 overloadedarmorbar					1.0.4f		https://minecraft.curseforge.com/projects/overloaded-armor-bar					~
-Pam's+HarvestCraft					zc			https://minecraft.curseforge.com/projects/pams-harvestcraft						~
+Pam's+HarvestCraft					zc			https://minecraft.curseforge.com/projects/pams-harvestcraft						Required by jehc and pamscookables. Integrates w/ AdPother, cooking-for-blockheads, culinaryconstruct and ProjectEIntegration
 Pam's+Simple+Recipes				c			https://minecraft.curseforge.com/projects/pams-simple-recipes					~
-pamscookables						1.1			https://minecraft.curseforge.com/projects/pams-cookables						~
+pamscookables						1.1			https://minecraft.curseforge.com/projects/pams-cookables						Requires Pam's+HarvestCraft
 parry								1.0-hotfix	https://minecraft.curseforge.com/projects/parry									~
 Patchouli							19			https://minecraft.curseforge.com/projects/patchouli
 Photoptics							0.1.1.1		https://minecraft.curseforge.com/projects/photoptics
