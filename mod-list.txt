@@ -49,7 +49,7 @@ ChanceCubes							242			https://minecraft.curseforge.com/projects/chance-cubes		
 ChatTweaks							5.1.20		https://minecraft.curseforge.com/projects/chat-tweaks							~
 chickens							6.0.4		https://minecraft.curseforge.com/projects/chickens								Required by more-chickens. Integrates w/ jei and the-one-probe
 combustfish							1.0.3.3		https://minecraft.curseforge.com/projects/combustive-fishing					Integrates w/ jetif
-conarm								1.2.3.4		https://minecraft.curseforge.com/projects/constructs-armory						Requires Mantle and TConstruct. Required by armory-expansion. Integrates w/ jei, plustic, tinkersarsenal and TinkerToolLeveling
+conarm								1.2.3.4		https://minecraft.curseforge.com/projects/constructs-armory						Requires Mantle and TConstruct. Required by armoryexpansion. Integrates w/ jei, plustic, tinkersarsenal and TinkerToolLeveling
 ContainerFix						1.0			https://minecraft.curseforge.com/projects/containerfix							~
 Controlling							3.0.6		https://minecraft.curseforge.com/projects/controlling							~
 CookingForBlockheads				6.4.70		https://minecraft.curseforge.com/projects/cooking-for-blockheads				Integrates w/ AdChimneys, AdPother, FoodExpansion and Pam's+HarvestCraft
@@ -75,7 +75,7 @@ EnchantmentDescriptions				1.1.13		https://minecraft.curseforge.com/projects/enc
 EnderIO-zoo							5.0.43		https://minecraft.curseforge.com/projects/ender-io-zoo							~
 ExtraGolems							7.1.4		https://minecraft.curseforge.com/projects/extra-golems							Required by TinkersGolemsAddon
 ExtraRails							1.3.0		https://minecraft.curseforge.com/projects/extra-rails							Requires ShadowMC
-extrautils2							1.9.9		https://minecraft.curseforge.com/projects/extra-utilities						Required by tmel. Integrates w/ Additional-Compression, armory-expansion and jetif
+extrautils2							1.9.9		https://minecraft.curseforge.com/projects/extra-utilities						Required by tmel. Integrates w/ Additional-Compression, armoryexpansion and jetif
 fairylights							2.1.6		https://minecraft.curseforge.com/projects/fairy-lights							~
 FamiliarFauna						1.0.11		https://minecraft.curseforge.com/projects/familiar-fauna						~
 FancyBlockParticles					2.4.1		https://minecraft.curseforge.com/projects/fancy-block-particles					Integrates w/ ProportionalDestructionParticles
@@ -133,7 +133,7 @@ MAGE								0.2.4		https://minecraft.curseforge.com/projects/mage									Smooth
 Magical+Map							3.3.2		https://minecraft.curseforge.com/projects/magical-map							Requires Placebo
 malisiscore							6.5.1		https://minecraft.curseforge.com/projects/malisiscore							Required by malisisdoors
 malisisdoors						7.3.0		https://minecraft.curseforge.com/projects/malisisdoors							Requires malisiscore. Integrates w/ secretroomsmod
-Mantle								1.3.3.49	https://minecraft.curseforge.com/projects/mantle								Required by armory-expansion, conarm, inspirations, Natura, tinkers-addons, tinkers-arsenal and TConstruct, tinkers-tool-leveling
+Mantle								1.3.3.49	https://minecraft.curseforge.com/projects/mantle								Required by armoryexpansion, conarm, inspirations, Natura, tinkers-addons, tinkers-arsenal and TConstruct, tinkers-tool-leveling
 mcjtylib							3.1.1		https://minecraft.curseforge.com/projects/mcjtylib								Required by nice
 MCMultiPart							2.5.3		https://minecraft.curseforge.com/projects/mcmultipart							Required by EDX-Multipart and slab-machines. Integrates w/ Mekanism
 megaloot							0.2.30		https://minecraft.curseforge.com/projects/megaloot								Requires Baubles
@@ -149,8 +149,8 @@ moreoverlays						1.14		https://minecraft.curseforge.com/projects/more-overlays	
 Morpheus							3.5.106		https://minecraft.curseforge.com/projects/morpheus								Integrates w/ rpintegration
 MouseTweaks							2.10		https://minecraft.curseforge.com/projects/mouse-tweaks							~
 mowziesmobs							1.5.4		https://minecraft.curseforge.com/projects/mowzies-mobs							Requires llibrary
-MysticalAgradditions				1.3.2		https://minecraft.curseforge.com/projects/mystical-agradditions					Requires Cucumber and MysticalAgriculture. Integrates w/ armory-expansion
-MysticalAgriculture					1.7.5		https://minecraft.curseforge.com/projects/mystical-agriculture					Requires Cucumber. Required by MysticalAgradditions. Integrates w/ AdChimneys, AdPother, armory-expansion and ProjectEIntegration
+MysticalAgradditions				1.3.2		https://minecraft.curseforge.com/projects/mystical-agradditions					Requires Cucumber and MysticalAgriculture. Integrates w/ armoryexpansion
+MysticalAgriculture					1.7.5		https://minecraft.curseforge.com/projects/mystical-agriculture					Requires Cucumber. Required by MysticalAgradditions. Integrates w/ AdChimneys, AdPother, armoryexpansion and ProjectEIntegration
 mysticallib							1.1.1		https://minecraft.curseforge.com/projects/mysticallib							Required by blockcraftery
 natura								4.3.2.66	https://minecraft.curseforge.com/projects/natura								Requires Mantle. Integrates w/ universalbestiary
 NetherEx							2.0.8		https://minecraft.curseforge.com/projects/netherex								Requires LibEx
@@ -173,28 +173,28 @@ Pam's+HarvestCraft					zc			https://minecraft.curseforge.com/projects/pams-harve
 Pam's+Simple+Recipes				c			https://minecraft.curseforge.com/projects/pams-simple-recipes					~
 pamscookables						1.1			https://minecraft.curseforge.com/projects/pams-cookables						Requires Pam's+HarvestCraft
 parry								1.0-hotfix	https://minecraft.curseforge.com/projects/parry									~
-Patchouli							19			https://minecraft.curseforge.com/projects/patchouli
-Photoptics							0.1.1.1		https://minecraft.curseforge.com/projects/photoptics
+Patchouli							19			https://minecraft.curseforge.com/projects/patchouli								Required by universalbestiary
+Photoptics							0.1.1.1		https://minecraft.curseforge.com/projects/photoptics							Requires Stellar+API
 Pillagers							1.0.2		https://minecraft.curseforge.com/projects/pillagers								Requires Bookshelf
-PiTweaks							2.1.3		https://minecraft.curseforge.com/projects/cplpibalds-tweaks
-Placebo								1.6.0		https://minecraft.curseforge.com/projects/placebo								Required by Toast+Control
-Plants								2.10.7		https://minecraft.curseforge.com/projects/plants
-plustic								7.0.6.1		https://minecraft.curseforge.com/projects/plustic
-pollutantpump						1.1.0		https://minecraft.curseforge.com/projects/pollutant-pump
-portality							1.2.2-14	https://minecraft.curseforge.com/projects/portality
+PiTweaks							2.1.3		https://minecraft.curseforge.com/projects/cplpibalds-tweaks						Integrates w/ slab-machines
+Placebo								1.6.0		https://minecraft.curseforge.com/projects/placebo								Required by Magical+Map, Plants, Toast+Control and WitherSkeletonTweaks
+Plants								2.10.7		https://minecraft.curseforge.com/projects/plants								Requires Placebo
+plustic								7.0.6.1		https://minecraft.curseforge.com/projects/plustic								Requires Mantle and TConstruct. Integrates w/ armoryexpansion, conarm and yoyos
+pollutantpump						1.1.0		https://minecraft.curseforge.com/projects/pollutant-pump						
+portality							1.2.2-14	https://minecraft.curseforge.com/projects/portality								
 primitivemobs						1.2.3a		https://minecraft.curseforge.com/projects/primitive-mobs						~
 ProjectE							1.4.1		https://minecraft.curseforge.com/projects/projecte								~
-ProjectEIntegration					2.2.11		https://minecraft.curseforge.com/projects/projecte-integration
-ProportionalDestructionParticles	1.2.4		https://minecraft.curseforge.com/projects/proportional-destruction-particles
-Quark								148			https://minecraft.curseforge.com/projects/quark
+ProjectEIntegration					2.2.11		https://minecraft.curseforge.com/projects/projecte-integration					
+ProportionalDestructionParticles	1.2.4		https://minecraft.curseforge.com/projects/proportional-destruction-particles	
+Quark								148			https://minecraft.curseforge.com/projects/quark									
 QuickLeafDecay						1.2.4		https://minecraft.curseforge.com/projects/quick-leaf-decay						~
-railcraft							12.0.0		https://minecraft.curseforge.com/projects/railcraft
+railcraft							12.0.0		https://minecraft.curseforge.com/projects/railcraft								
 randompatches						1.15.0.2	https://minecraft.curseforge.com/projects/randompatches							~
 RandomThings						4.2.7.1		https://minecraft.curseforge.com/projects/random-things							~
-RealisticItemDrops					1.2.14		https://minecraft.curseforge.com/projects/realistic-item-drops
-RecurrentComplex					1.4.8.2		https://minecraft.curseforge.com/projects/recurrent-complex
-Redstone++							1.2d		https://minecraft.curseforge.com/projects/redstoneplusplus
-RetroBees							1.1.4		https://minecraft.curseforge.com/projects/retrobees
+RealisticItemDrops					1.2.14		https://minecraft.curseforge.com/projects/realistic-item-drops					
+RecurrentComplex					1.4.8.2		https://minecraft.curseforge.com/projects/recurrent-complex						
+Redstone++							1.2d		https://minecraft.curseforge.com/projects/redstoneplusplus						
+RetroBees							1.1.4		https://minecraft.curseforge.com/projects/retrobees								
 RoguelikeDungeons					1.8.0		https://minecraft.curseforge.com/projects/roguelike-dungeons					~
 roost								2.0.10		https://minecraft.curseforge.com/projects/roost									Complements chickens and hatchery
 rpintegration						1.4.0.0		https://minecraft.curseforge.com/projects/randompatches-integration
