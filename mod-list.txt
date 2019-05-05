@@ -237,6 +237,7 @@ TTFR								1.9.1		https://minecraft.curseforge.com/projects/truetype-font-repla
 unifier								3.0.2		https://minecraft.curseforge.com/projects/unifier								~
 universalbestiary					1.1.0		https://minecraft.curseforge.com/projects/universalbestiary						Requires Patchouli. Integrates w/ Natura, OpenBlocks, Quark and TConstruct
 unloader							1.2.0		https://minecraft.curseforge.com/projects/unloader								~
+UNU+Parts+Pack+[MTS]				1.11.0		https://minecraft.curseforge.com/projects/unu-parts-pack						Requires Immersive+Vehicles
 Vampirism							1.4.9		https://minecraft.curseforge.com/projects/vampirism-become-a-vampire			Required by VampirismIntegrations. Integrates w/ Guide-API and jei
 VampirismIntegrations				1.0.0		https://minecraft.curseforge.com/projects/vampirism-integrations				Requires Vampirism. Integrates w/ AbyssalCraft, BiomesOPlenty and TConstruct
 VanillaFix							99			https://minecraft.curseforge.com/projects/vanillafix							~
