@@ -178,7 +178,7 @@ parry									1.0-hotfix	https://minecraft.curseforge.com/projects/parry								
 Patchouli								19			https://minecraft.curseforge.com/projects/patchouli									Required by universalbestiary
 Photoptics								0.1.1.1		https://minecraft.curseforge.com/projects/photoptics								Requires Stellar+API
 Pillagers								1.0.2		https://minecraft.curseforge.com/projects/pillagers									Requires Bookshelf
-PiTweaks								2.1.3		https://minecraft.curseforge.com/projects/cplpibalds-tweaks							Integrates w/ Slab_Machines
+PiTweaks								1.1.1		https://minecraft.curseforge.com/projects/cplpibalds-tweaks							Integrates w/ Slab_Machines
 Placebo									1.6.0		https://minecraft.curseforge.com/projects/placebo									Required by Magical+Map, Plants, Toast+Control and WitherSkeletonTweaks
 Plants									2.10.7		https://minecraft.curseforge.com/projects/plants									Requires Placebo
 plustic									7.0.6.1		https://minecraft.curseforge.com/projects/plustic									Requires Mantle and TConstruct. Integrates w/ armoryexpansion, conarm and yoyos
