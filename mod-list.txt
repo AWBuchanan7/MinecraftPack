@@ -204,50 +204,50 @@ rusticbopwoods						1.0			https://minecraft.curseforge.com/projects/rustic-bop-w
 SeasonalBees						1.0			https://minecraft.curseforge.com/projects/seasonal-bees							Requires forestry and SereneSeasons
 secretroomsmod						5.6.4		https://minecraft.curseforge.com/projects/secretroomsmod						Integrates w/ CTM, jei and theoneprobe
 SereneSeasons						1.2.15		https://minecraft.curseforge.com/projects/serene-seasons						Required by igisereneseasons. Integrates w/ ProjectVibrantJourneys and SeasonalBees
-ShadowMC							3.8.0		https://minecraft.curseforge.com/projects/shadowmc								
-SharpBone							1.0			https://minecraft.curseforge.com/projects/sharpbone								
+ShadowMC							3.8.0		https://minecraft.curseforge.com/projects/shadowmc								Requires Forgelin. Required by ExtraRails
+SharpBone							1.0			https://minecraft.curseforge.com/projects/sharpbone								~
 SimplyArrows						1.0.4		https://minecraft.curseforge.com/projects/simply-arrows							Requires Bookshelf
-Slab_Machines						1.0.5		https://minecraft.curseforge.com/projects/slab-machines							
+Slab_Machines						1.0.5		https://minecraft.curseforge.com/projects/slab-machines							Requires MCMultiPart. Integrates w/ CraftingTweaks, FastFurnace, FastWorkbench, jei, PiTweaks and TConstruct
 SmoothFont							1.16.2		https://minecraft.curseforge.com/projects/smooth-font							~
-Stackie								1.6.0.48	https://minecraft.curseforge.com/projects/stackie								
-Stellar+API							0.4.2.9		https://minecraft.curseforge.com/projects/stellar-api							
-Stellar+Sky							0.5.2.8		https://minecraft.curseforge.com/projects/stellar-sky							
+Stackie								1.6.0.48	https://minecraft.curseforge.com/projects/stackie								Requires LunatriusCore
+Stellar+API							0.4.2.9		https://minecraft.curseforge.com/projects/stellar-api							Required by Photoptics and Stellar+Sky
+Stellar+Sky							0.5.2.8		https://minecraft.curseforge.com/projects/stellar-sky							Requires Stellar+API
 stg									1.2.3		https://minecraft.curseforge.com/projects/swingthroughgrass						~
 stonechests							1.0.0		https://minecraft.curseforge.com/projects/stone-chests							~
 supersaix-VenomousFangs				1.1			https://minecraft.curseforge.com/projects/venomous-fangs						~
 supersaix-modpack					0.2A		~																				~
 supersaix-monica					0.1A		~																				~
-taiga								1.3.4		https://minecraft.curseforge.com/projects/taiga-tinkers-alloying-addon			
-TConstruct							2.12.0.135	https://minecraft.curseforge.com/projects/tinkers-construct						Requires Mantle
-TexFix								4.0			https://minecraft.curseforge.com/projects/texfix								
+taiga								1.3.4		https://minecraft.curseforge.com/projects/taiga-tinkers-alloying-addon			Requires TConstruct. Integrates w/ armoryexpansion
+TConstruct							2.12.0.135	https://minecraft.curseforge.com/projects/tinkers-construct						Requires Mantle. Required by armoryexpansion, conarm, plustic, taiga, Tinkers'+Addons, tinkersarsenal, TinkersGolemsAddon, tinkersjei, TinkerToolLeveling and yoyos
+TexFix								4.0			https://minecraft.curseforge.com/projects/texfix								~
 TheBetweenlands						3.4.6		https://minecraft.curseforge.com/projects/angry-pixel-the-betweenlands-mod		~
-thedragonlib						5.3.0		https://minecraft.curseforge.com/projects/thedragonlib							
-theoneprobe							1.4.28		https://minecraft.curseforge.com/projects/the-one-probe							~
-Tinkers'+Addons						1.0.7		https://minecraft.curseforge.com/projects/tinkers-addons						
-tinkersarsenal						0.5			https://minecraft.curseforge.com/projects/tinkers-arsenal						
-TinkersGolemsAddon					7.1.1-1		https://minecraft.curseforge.com/projects/tinkers-golems-addon					
-tinkersjei							1.2			https://minecraft.curseforge.com/projects/tinkers-jei							
-TinkerToolLeveling					1.1.0		https://minecraft.curseforge.com/projects/tinkers-tool-leveling					
-tmel								1.3.2.2		https://minecraft.curseforge.com/projects/too-many-efficiency-losses			
+thedragonlib						5.3.0		https://minecraft.curseforge.com/projects/thedragonlib							Required by armorplus
+theoneprobe							1.4.28		https://minecraft.curseforge.com/projects/the-one-probe							Required by topaddons. Integrates w/ armorplus, Baubles, chickens, ExtraGolems, hatchery, inspirations, mcjtylib, Mekanism, secretroomsmod, SecurityCraft and nice
+Tinkers'+Addons						1.0.7		https://minecraft.curseforge.com/projects/tinkers-addons						Requires Mantle and TConstruct
+tinkersarsenal						0.5			https://minecraft.curseforge.com/projects/tinkers-arsenal						Requires Mantle and TConstruct. Integrates w/ conarm
+TinkersGolemsAddon					7.1.1-1		https://minecraft.curseforge.com/projects/tinkers-golems-addon					Requires ExtraGolems and TConstruct
+tinkersjei							1.2			https://minecraft.curseforge.com/projects/tinkers-jei							Requires jei and TConstruct
+TinkerToolLeveling					1.1.0		https://minecraft.curseforge.com/projects/tinkers-tool-leveling					Requires Mantle and TConstruct. Integrates w/ conarm
+tmel								1.3.2.2		https://minecraft.curseforge.com/projects/too-many-efficiency-losses			Requires extrautils2
 Toast+Control						1.8.0		https://minecraft.curseforge.com/projects/toast-control							Requires Placebo
-topaddons							1.11.0		https://minecraft.curseforge.com/projects/top-addons							~
+topaddons							1.11.0		https://minecraft.curseforge.com/projects/top-addons							Requires theoneprobe. Integrates w/ forestry and TConstruct
 toughnessbar						2.2			https://minecraft.curseforge.com/projects/armor-toughness-bar					Integrates w/ overloadedarmorbar
-Traverse							69			https://minecraft.curseforge.com/projects/traverse								
-TTFR								1.9.1		https://minecraft.curseforge.com/projects/truetype-font-replacement				
-unifier								3.0.2		https://minecraft.curseforge.com/projects/unifier								
-universalbestiary					1.1.0		https://minecraft.curseforge.com/projects/universalbestiary						
-unloader							1.2.0		https://minecraft.curseforge.com/projects/unloader								
-Vampirism							1.4.9		https://minecraft.curseforge.com/projects/vampirism-become-a-vampire			~
-VampirismIntegrations				1.0.0		https://minecraft.curseforge.com/projects/vampirism-integrations				
+Traverse							69			https://minecraft.curseforge.com/projects/traverse								Integrates w/ ProjectVibrantJourneys
+TTFR								1.9.1		https://minecraft.curseforge.com/projects/truetype-font-replacement				~
+unifier								3.0.2		https://minecraft.curseforge.com/projects/unifier								~
+universalbestiary					1.1.0		https://minecraft.curseforge.com/projects/universalbestiary						Requires Patchouli. Integrates w/ Natura, OpenBlocks, Quark and TConstruct
+unloader							1.2.0		https://minecraft.curseforge.com/projects/unloader								~
+Vampirism							1.4.9		https://minecraft.curseforge.com/projects/vampirism-become-a-vampire			Required by VampirismIntegrations. Integrates w/ Guide-API and jei
+VampirismIntegrations				1.0.0		https://minecraft.curseforge.com/projects/vampirism-integrations				Requires Vampirism. Integrates w/ AbyssalCraft, BiomesOPlenty and TConstruct
 VanillaFix							99			https://minecraft.curseforge.com/projects/vanillafix							~
-wearables							1.1.3		https://minecraft.curseforge.com/projects/wearables								
-weather2							2.6.12		https://minecraft.curseforge.com/projects/weather-storms-tornadoes				
-wings								1.1.4		https://minecraft.curseforge.com/projects/wings									
-WitherSkeletonTweaks				2.6.3		https://minecraft.curseforge.com/projects/wither-skeleton-tweaks				
-wolfarmor							2.2.3.1798	https://minecraft.curseforge.com/projects/wolf-armor-and-storage				
-worleycaves							1.4.0		https://minecraft.curseforge.com/projects/worleys-caves							
-yoyos								1.2.2.20	https://minecraft.curseforge.com/projects/yoyos									
-zombieawareness						1.11.16		https://minecraft.curseforge.com/projects/zombie-awareness						
+wearables							1.1.3		https://minecraft.curseforge.com/projects/wearables								Requires llibrary
+weather2							2.6.12		https://minecraft.curseforge.com/projects/weather-storms-tornadoes				Requires coroutil. Integrates w/ AdChimneys and AdPother
+wings								1.1.4		https://minecraft.curseforge.com/projects/wings									Requires llibrary. Integrates w/ Baubles
+WitherSkeletonTweaks				2.6.3		https://minecraft.curseforge.com/projects/wither-skeleton-tweaks				Requires Placebo
+wolfarmor							2.2.3.1798	https://minecraft.curseforge.com/projects/wolf-armor-and-storage				~
+worleycaves							1.4.0		https://minecraft.curseforge.com/projects/worleys-caves							~
+yoyos								1.2.2.20	https://minecraft.curseforge.com/projects/yoyos									Integrates w/ plustic and TConstruct
+zombieawareness						1.11.16		https://minecraft.curseforge.com/projects/zombie-awareness						Requires coroutil
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Removed ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Name								Version		URL																				Reason
