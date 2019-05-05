@@ -69,7 +69,7 @@ DynamicLights						19.5.2018	https://minecraft.curseforge.com/projects/dynamic-l
 DynamicSurroundings					3.5.4.3		https://minecraft.curseforge.com/projects/dynamic-surroundings					Requires OreLib. Integrates w/ AdPother
 EDX-Multipart						1.1.1		https://minecraft.curseforge.com/projects/edx-multipart							Requires MCMultiPart
 EerieEntities						1.0.6		https://minecraft.curseforge.com/projects/eerie-entities						Requires Bookshelf
-emcbuilderswand						1.2			https://minecraft.curseforge.com/projects/emc-builders-wand						Requires BetterBuildersWands and ProjectE
+emcbuilderswand						1.7			https://minecraft.curseforge.com/projects/emc-builders-wand						Requires BetterBuildersWands and ProjectE
 EnchantingPlus						5.0.176		https://minecraft.curseforge.com/projects/enchanting-plus						Requires Bookshelf
 EnchantmentDescriptions				1.1.13		https://minecraft.curseforge.com/projects/enchantment-descriptions				Integrates w/ Cyclic
 EnderIO-zoo							5.0.43		https://minecraft.curseforge.com/projects/ender-io-zoo							~
