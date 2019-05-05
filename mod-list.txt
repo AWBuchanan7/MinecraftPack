@@ -73,9 +73,6 @@ EerieEntities							1.0.6		https://minecraft.curseforge.com/projects/eerie-entit
 emcbuilderswand							1.7			https://minecraft.curseforge.com/projects/emc-builders-wand							Requires BetterBuildersWands and ProjectE
 EnchantingPlus							5.0.176		https://minecraft.curseforge.com/projects/enchanting-plus							Requires Bookshelf
 EnchantmentDescriptions					1.1.13		https://minecraft.curseforge.com/projects/enchantment-descriptions					Integrates w/ Cyclic
-EnderCore								0.5.57		https://minecraft.curseforge.com/projects/endercore									Required by EnderIO-base and EnderIO-zoo
-EnderIO-base							5.0.43		https://minecraft.curseforge.com/projects/ender-io-base								Required by EnderIO-zoo
-EnderIO-zoo								5.0.43		https://minecraft.curseforge.com/projects/ender-io-zoo								Requires EnderIO-base
 ExtraGolems								7.1.4		https://minecraft.curseforge.com/projects/extra-golems								Required by TinkersGolemsAddon
 ExtraRails								1.3.0		https://minecraft.curseforge.com/projects/extra-rails								Requires ShadowMC
 extrautils2								1.9.9		https://minecraft.curseforge.com/projects/extra-utilities							Required by tmel. Integrates w/ Additional-Compression, armoryexpansion and jetif
