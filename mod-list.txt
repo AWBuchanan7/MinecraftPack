@@ -157,7 +157,7 @@ mysticallib								1.1.1		https://minecraft.curseforge.com/projects/mysticallib	
 natura									4.3.2.66	https://minecraft.curseforge.com/projects/natura									Requires Mantle. Integrates w/ universalbestiary
 NetherEx								2.0.8		https://minecraft.curseforge.com/projects/netherex									Requires LibEx
 NewAgeBeeBreeding						1.0.4		https://minecraft.curseforge.com/projects/nabb										Requires forestry
-nice									0.3.2		https://minecraft.curseforge.com/projects/xnicex									Requires mcjtylib. Integrates w/ theoneprobe
+nice									0.4.0		https://minecraft.curseforge.com/projects/xnicex									Requires mcjtylib. Integrates w/ theoneprobe
 NoAutoJump								1.1			https://minecraft.curseforge.com/projects/no-auto-jump								~
 NomadicTents							9.2.0		https://minecraft.curseforge.com/projects/nomadic-tents								~
 NoMobSpawningOnTrees					1.2.2		https://minecraft.curseforge.com/projects/no-mob-spawning-on-trees					~
