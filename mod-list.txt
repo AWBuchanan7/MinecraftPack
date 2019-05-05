@@ -231,7 +231,7 @@ TinkersGolemsAddon						7.1.1-1		https://minecraft.curseforge.com/projects/tinke
 tinkersjei								1.2			https://minecraft.curseforge.com/projects/tinkers-jei								Requires jei and TConstruct
 TinkerToolLeveling						1.1.0		https://minecraft.curseforge.com/projects/tinkers-tool-leveling						Requires Mantle and TConstruct. Integrates w/ conarm
 tmel									1.3.2.2		https://minecraft.curseforge.com/projects/too-many-efficiency-losses				Requires extrautils2
-Toast+Control							1.8.0		https://minecraft.curseforge.com/projects/toast-control								Requires Placebo
+Toast+Control							1.8.1		https://minecraft.curseforge.com/projects/toast-control								Requires Placebo
 topaddons								1.11.0		https://minecraft.curseforge.com/projects/top-addons								Requires theoneprobe. Integrates w/ forestry and TConstruct
 toughnessbar							2.2			https://minecraft.curseforge.com/projects/armor-toughness-bar						Integrates w/ overloadedarmorbar
 Traverse								69			https://minecraft.curseforge.com/projects/traverse									Integrates w/ ProjectVibrantJourneys
