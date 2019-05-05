@@ -7,7 +7,7 @@ AbyssalCraft						1.9.7		https://minecraft.curseforge.com/projects/abyssalcraft	
 AdChimneys							0277		https://minecraft.curseforge.com/projects/advanced-chimneys						Requires ForgeEndertech. Integrates w/ AdPother, CookingForBlockheads, furniture, Mekanism, MysticalAgriculture, ProjectE, railcraft, TConstruct and weather2
 AdditionalBanners					1.1.76		https://minecraft.curseforge.com/projects/additional-banners					Integrates w/ cosmeticbeds
 Additional-Compression				3.3			https://minecraft.curseforge.com/projects/additional-compression				Integrates w/ extrautils2
-AdPother							0296		https://minecraft.curseforge.com/projects/pollution-of-the-realms				Requires ForgeEndertech. Integrates w/ AdChimneys, Baubles, CookingForBlockheads, FloodLights, furniture, Immersive+Vehicles, Mekanism, MysticalAgriculture, Pam's+HarvestCraft, pollutantpump, ProjectE, railcraft, TConstruct and weather2
+AdPother							0318		https://minecraft.curseforge.com/projects/pollution-of-the-realms				Requires ForgeEndertech. Integrates w/ AdChimneys, Baubles, CookingForBlockheads, FloodLights, furniture, Immersive+Vehicles, Mekanism, MysticalAgriculture, Pam's+HarvestCraft, pollutantpump, ProjectE, railcraft, TConstruct and weather2
 AnvilFix							1.0.3		https://minecraft.curseforge.com/projects/anvil-fix								~
 AppleSkin							1.0.9		https://minecraft.curseforge.com/projects/appleskin								~
 Aquaculture							1.6.8		https://minecraft.curseforge.com/projects/aquaculture							~
