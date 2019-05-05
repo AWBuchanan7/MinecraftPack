@@ -1,7 +1,7 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Added ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Name									Version		URL																					Comments
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-SecurityCraft							1.8.12		https://minecraft.curseforge.com/projects/security-craft							Integrates w/ jei
+SecurityCraft							1.8.12		https://minecraft.curseforge.com/projects/security-craft							Integrates w/ jei and theoneprobe
 AbyssalCraft+Integration				1.8.1		https://minecraft.curseforge.com/projects/abyssalcraft-integration					Requires AbyssalCraft. Integrates w/ ProjectE and TConstruct
 AbyssalCraft							1.9.7		https://minecraft.curseforge.com/projects/abyssalcraft								Required by AbyssalCraft+Integrations. Integrates w/ jei
 AdChimneys								0277		https://minecraft.curseforge.com/projects/advanced-chimneys							Requires ForgeEndertech. Integrates w/ AdPother, CookingForBlockheads, furniture, Mekanism, MysticalAgriculture, ProjectE, railcraft, TConstruct and weather2
