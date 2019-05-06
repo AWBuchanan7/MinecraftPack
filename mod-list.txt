@@ -92,7 +92,6 @@ ForgeEndertech							306			https://minecraft.curseforge.com/projects/forgeendert
 Forgelin								1.8.2		https://minecraft.curseforge.com/projects/shadowfacts-forgelin						Required by BetterFoliage
 fossilsarcheology						8.0.0		https://minecraft.curseforge.com/projects/fossils									Requires llibrary
 furniture								6.2.0		https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod					Integrates w/ AdChimneys, AdPother and Pam's+HarvestCraft
-gottagofast								1.1			https://minecraft.curseforge.com/projects/gotta-go-fast								~
 Guide-API								63			https://minecraft.curseforge.com/projects/guide-api									Integrates w/ Cyclic and Vampirism
 hatchery								2.2.1		https://minecraft.curseforge.com/projects/hatchery									Integrates w/ chickens, morechickens, theoneprobe and topaddons
 hatedmobs								1.3.0		https://minecraft.curseforge.com/projects/hated-mobs								Requires llibrary
@@ -254,6 +253,7 @@ zombieawareness							1.11.16		https://minecraft.curseforge.com/projects/zombie-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Removed ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Name									Version		URL																					Reason
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+gottagofast								1.1			https://minecraft.curseforge.com/projects/gotta-go-fast								Replaced by randompatches
 Hwyla									B41			https://minecraft.curseforge.com/projects/hwyla										Replaced by theoneprobe
 SmoothWater								0.1.4		https://minecraft.curseforge.com/projects/smoothwater								Replaced by MAGE
 TTFR									1.9.1		https://minecraft.curseforge.com/projects/truetype-font-replacement					Replaced by SmoothFont
