@@ -235,7 +235,6 @@ Toast+Control							1.8.1		https://minecraft.curseforge.com/projects/toast-contr
 topaddons								1.11.0		https://minecraft.curseforge.com/projects/top-addons								Requires theoneprobe. Integrates w/ forestry and TConstruct
 toughnessbar							2.2			https://minecraft.curseforge.com/projects/armor-toughness-bar						Integrates w/ overloadedarmorbar
 Traverse								69			https://minecraft.curseforge.com/projects/traverse									Integrates w/ ProjectVibrantJourneys
-TTFR									1.9.1		https://minecraft.curseforge.com/projects/truetype-font-replacement					~
 unifier									3.0.2		https://minecraft.curseforge.com/projects/unifier									~
 universalbestiary						1.1.0		https://minecraft.curseforge.com/projects/universalbestiary							Requires Patchouli. Integrates w/ Natura, OpenBlocks, Quark and TConstruct
 unloader								1.2.0		https://minecraft.curseforge.com/projects/unloader									~
@@ -257,3 +256,4 @@ Name									Version		URL																					Reason
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Hwyla									B41			https://minecraft.curseforge.com/projects/hwyla										Replaced by theoneprobe
 SmoothWater								0.1.4		https://minecraft.curseforge.com/projects/smoothwater								Replaced by MAGE
+TTFR									1.9.1		https://minecraft.curseforge.com/projects/truetype-font-replacement					Replaced by SmoothFont
