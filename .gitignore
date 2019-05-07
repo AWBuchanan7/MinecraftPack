@@ -1,2 +1,7 @@
-
+*.class
+*.log
+libraries/
+.mixin.out/
 config/ProjectE/customConversions/example.json
+forge-*-universal.jar
+mods/memory_repo/
