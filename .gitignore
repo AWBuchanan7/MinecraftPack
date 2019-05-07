@@ -4,4 +4,6 @@ libraries/
 .mixin.out/
 config/ProjectE/customConversions/example.json
 forge-*-universal.jar
+logs/
 mods/memory_repo/
+world/
