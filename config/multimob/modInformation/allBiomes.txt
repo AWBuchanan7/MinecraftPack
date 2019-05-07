@@ -143,6 +143,7 @@ pvj:snowy_boreal_forest
 pvj:aspen_grove
 pvj:overgrown_spires
 pvj:blossoming_fields
+pvj:baobab_fields
 randomthings:spectral
 defiledlands:desert_defiled
 defiledlands:plains_defiled
