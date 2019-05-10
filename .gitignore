@@ -8,3 +8,14 @@ forge-*-universal.jar
 logs/
 mods/memory_repo/
 world/
+config/NetherEx/Biomes/minecraft/hell.json
+config/NetherEx/Biomes/nex/arctic_abyss.json
+config/NetherEx/Biomes/nex/fungi_forest.json
+config/NetherEx/Biomes/nex/ruthless_sands.json
+config/NetherEx/Biomes/nex/torrid_wasteland.json
+config/multimob/modInformation/allItems.txt
+config/multimob/modInformation/allEntities.txt
+config/multimob/modInformation/allBlockStates.txt
+config/multimob/modInformation/allBlocks.txt
+config/multimob/modInformation/allBiomeTypes.txt
+config/ChanceCubes/CustomRewards/CustomSounds-Resourcepack.zip
