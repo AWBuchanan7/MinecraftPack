@@ -3,11 +3,6 @@
 libraries/
 *cache.json
 .mixin.out/
-config/ProjectE/customConversions/example.json
-forge-*-universal.jar
-logs/
-mods/memory_repo/
-world/
 config/NetherEx/Biomes/minecraft/hell.json
 config/NetherEx/Biomes/nex/arctic_abyss.json
 config/NetherEx/Biomes/nex/fungi_forest.json
@@ -19,3 +14,9 @@ config/multimob/modInformation/allBlockStates.txt
 config/multimob/modInformation/allBlocks.txt
 config/multimob/modInformation/allBiomeTypes.txt
 config/ChanceCubes/CustomRewards/CustomSounds-Resourcepack.zip
+*.zip
+config/ProjectE/customConversions/example.json
+forge-*-universal.jar
+logs/
+mods/memory_repo/
+world/
