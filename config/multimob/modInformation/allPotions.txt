@@ -89,7 +89,6 @@ cyclicmagic:potion.bounce
 cyclicmagic:potion.frostwalker
 cyclicmagic:potion.butter
 cyclicmagic:potion.stunned
-hatedmobs:insomnia
 thebetweenlands:effect_petrify
 thebetweenlands:effect_isolatedsenses
 thebetweenlands:effect_limbless
