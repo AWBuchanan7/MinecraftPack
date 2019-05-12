@@ -205,7 +205,6 @@ SeasonalBees							1.0			https://minecraft.curseforge.com/projects/seasonal-bees
 secretroomsmod							5.6.4		https://minecraft.curseforge.com/projects/secretroomsmod							Integrates w/ CTM, jei and theoneprobe
 SereneSeasons							1.2.15		https://minecraft.curseforge.com/projects/serene-seasons							Required by igisereneseasons. Integrates w/ ProjectVibrantJourneys and SeasonalBees
 ShadowMC								3.8.0		https://minecraft.curseforge.com/projects/shadowmc									Requires Forgelin. Required by ExtraRails
-SharpBone								1.0			https://minecraft.curseforge.com/projects/sharpbone									~
 SimplyArrows							1.0.4		https://minecraft.curseforge.com/projects/simply-arrows								Requires Bookshelf
 Slab_Machines							1.0.5		https://minecraft.curseforge.com/projects/slab-machines								Requires MCMultiPart. Integrates w/ CraftingTweaks, FastFurnace, FastWorkbench, jei, PiTweaks and TConstruct
 SmoothFont								1.16.2		https://minecraft.curseforge.com/projects/smooth-font								~
@@ -256,5 +255,6 @@ bedpatch								2.2			https://minecraft.curseforge.com/projects/bed-patch							
 gottagofast								1.1			https://minecraft.curseforge.com/projects/gotta-go-fast								Replaced by randompatches
 hatedmobs								1.3.0		https://minecraft.curseforge.com/projects/hated-mobs								There's a reason they're called hated mobs
 Hwyla									B41			https://minecraft.curseforge.com/projects/hwyla										Replaced by theoneprobe
+SharpBone								1.0			https://minecraft.curseforge.com/projects/sharpbone									Error registering the only item it adds...
 SmoothWater								0.1.4		https://minecraft.curseforge.com/projects/smoothwater								Replaced by MAGE
 TTFR									1.9.1		https://minecraft.curseforge.com/projects/truetype-font-replacement					Replaced by SmoothFont
