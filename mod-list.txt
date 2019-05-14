@@ -153,7 +153,7 @@ MysticalAgriculture						1.7.5		https://minecraft.curseforge.com/projects/mystic
 mysticallib								1.1.1		https://minecraft.curseforge.com/projects/mysticallib								Required by blockcraftery
 natura									4.3.2.66	https://minecraft.curseforge.com/projects/natura									Requires Mantle. Integrates w/ universalbestiary
 NetherEx								2.0.8		https://minecraft.curseforge.com/projects/netherex									Requires LibEx
-NewAgeBeeBreeding						1.0.4		https://minecraft.curseforge.com/projects/nabb										Requires forestry
+NewAgeBeeBreeding						1.0.5		https://minecraft.curseforge.com/projects/nabb										Requires forestry. Integrates w/ Quark
 nice									0.4.0		https://minecraft.curseforge.com/projects/xnicex									Requires mcjtylib. Integrates w/ theoneprobe
 NoAutoJump								1.1			https://minecraft.curseforge.com/projects/no-auto-jump								~
 NomadicTents							9.2.0		https://minecraft.curseforge.com/projects/nomadic-tents								~
