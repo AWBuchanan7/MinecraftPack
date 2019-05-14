@@ -115,7 +115,6 @@ jepb									1.2.1		https://minecraft.curseforge.com/projects/just-enough-patter
 jetif									1.4.1		https://minecraft.curseforge.com/projects/jetif										Requires jei. Integrates w/ astralsorcery, combustfish and extrautils2
 journeymap								5.5.5b6		https://minecraft.curseforge.com/projects/journeymap								~
 JustEnoughCalculations					3.1.4		https://minecraft.curseforge.com/projects/just-enough-calculation					Requires jei
-justenoughdimensions					1.5.5		https://minecraft.curseforge.com/projects/just-enough-dimensions					~
 JustEnoughIDs							1.0.2		https://minecraft.curseforge.com/projects/jeid										~
 JustEnoughResources						0.8.5.27	https://minecraft.curseforge.com/projects/just-enough-resources-jer					Requires jei. Integrates w/ artifacts
 kjlib									1.0.4		https://minecraft.curseforge.com/projects/kjlib										Required by caveroot and stonechests
@@ -257,6 +256,7 @@ bedpatch								2.2			https://minecraft.curseforge.com/projects/bed-patch							
 gottagofast								1.1			https://minecraft.curseforge.com/projects/gotta-go-fast								Replaced by randompatches
 hatedmobs								1.3.0		https://minecraft.curseforge.com/projects/hated-mobs								There's a reason they're called hated mobs
 Hwyla									B41			https://minecraft.curseforge.com/projects/hwyla										Replaced by theoneprobe
+justenoughdimensions					1.5.5		https://minecraft.curseforge.com/projects/just-enough-dimensions					Only needed for custom-made dimensions. Thought it did something else.
 SharpBone								1.0			https://minecraft.curseforge.com/projects/sharpbone									Error registering the only item it adds...
 SmoothWater								0.1.4		https://minecraft.curseforge.com/projects/smoothwater								Replaced by MAGE
 TTFR									1.9.1		https://minecraft.curseforge.com/projects/truetype-font-replacement					Replaced by SmoothFont
