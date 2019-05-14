@@ -156,7 +156,7 @@ NetherEx								2.0.8		https://minecraft.curseforge.com/projects/netherex							
 NewAgeBeeBreeding						1.0.5		https://minecraft.curseforge.com/projects/nabb										Requires forestry. Integrates w/ Quark
 nice									0.4.0		https://minecraft.curseforge.com/projects/xnicex									Requires mcjtylib. Integrates w/ theoneprobe
 NoAutoJump								1.1			https://minecraft.curseforge.com/projects/no-auto-jump								~
-NomadicTents							9.2.0		https://minecraft.curseforge.com/projects/nomadic-tents								~
+NomadicTents							9.3.1		https://minecraft.curseforge.com/projects/nomadic-tents								~
 NoMobSpawningOnTrees					1.2.2		https://minecraft.curseforge.com/projects/no-mob-spawning-on-trees					~
 NoNVFlash								1.2.0.3		https://minecraft.curseforge.com/projects/no-night-vision-flashing					~
 NoTemaStahp								1.0.3		https://minecraft.curseforge.com/projects/no-tema-stahp								Remove exploits introduced in extrautils2
