@@ -35,7 +35,7 @@ BiblioCraft								2.4.5		https://minecraft.curseforge.com/projects/bibliocraft	
 bigbeautifulbuttons						1.1.3		https://minecraft.curseforge.com/projects/big-beautiful-buttons						~
 BiomesOPlenty							2419		https://minecraft.curseforge.com/projects/biomes-o-plenty							Required by rusticbopwoods. Integrates w/ VampirismIntegrations
 BiomeSpecificDungeons					1.0.3		https://minecraft.curseforge.com/projects/biome-specific-dungeons					Requires Bookshelf
-BlackThorne+Empire+Vehicles+[MTS]+[IR]	1.11.0		https://minecraft.curseforge.com/projects/blackthorne-empire-vehicles				Requires Immersive+Vehicles and UNU+Parts+Pack+[MTS]
+BlackThorne+Empire+Vehicles+[MTS]+[IR]	1.11.1		https://minecraft.curseforge.com/projects/blackthorne-empire-vehicles				Requires Immersive+Vehicles and UNU+Parts+Pack+[MTS]
 blockcraftery							1.2.0		https://minecraft.curseforge.com/projects/blockcraftery								Requires mysticallib
 blockdrops								1.4.0		https://minecraft.curseforge.com/projects/block-drops-jei-addon						Requires jei
 Bloodmoon								1.5.3		https://minecraft.curseforge.com/projects/bloodmoon									~
