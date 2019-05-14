@@ -189,7 +189,7 @@ ProportionalDestructionParticles		1.2.4		https://minecraft.curseforge.com/projec
 Quark									150			https://minecraft.curseforge.com/projects/quark										Requires AutoRegLib. Integrates w/ cosmeticbeds, fencejumper, nabb and universalbestiary
 QuickLeafDecay							1.2.4		https://minecraft.curseforge.com/projects/quick-leaf-decay							~
 railcraft								12.0.0		https://minecraft.curseforge.com/projects/railcraft									Integrates w/ AdChimneys and AdPother
-randompatches							1.15.0.2	https://minecraft.curseforge.com/projects/randompatches								Required by rpintegration
+randompatches							1.15.1.0	https://minecraft.curseforge.com/projects/randompatches								Required by rpintegration
 RandomThings							4.2.7.1		https://minecraft.curseforge.com/projects/random-things								Required by lavawaderbauble
 RealisticItemDrops						1.2.14		https://minecraft.curseforge.com/projects/realistic-item-drops						~
 reauth									3.6.0		https://minecraft.curseforge.com/projects/reauth									~
