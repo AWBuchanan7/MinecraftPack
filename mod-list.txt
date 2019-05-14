@@ -113,7 +113,7 @@ jeiintegration							1.5.1.36	https://minecraft.curseforge.com/projects/jei-inte
 jeivillagers							1.0.2		https://minecraft.curseforge.com/projects/jei-villagers								Requires jei
 jepb									1.2.1		https://minecraft.curseforge.com/projects/just-enough-pattern-banners				Requires jei
 jetif									1.4.1		https://minecraft.curseforge.com/projects/jetif										Requires jei. Integrates w/ astralsorcery, combustfish and extrautils2
-journeymap								5.5.4		https://minecraft.curseforge.com/projects/journeymap								~
+journeymap								5.5.5b6		https://minecraft.curseforge.com/projects/journeymap								~
 JustEnoughCalculations					3.1.4		https://minecraft.curseforge.com/projects/just-enough-calculation					Requires jei
 justenoughdimensions					1.5.5		https://minecraft.curseforge.com/projects/just-enough-dimensions					~
 JustEnoughIDs							1.0.2		https://minecraft.curseforge.com/projects/jeid										~
