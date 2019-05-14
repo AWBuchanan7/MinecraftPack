@@ -183,7 +183,7 @@ pollutantpump							1.1.0		https://minecraft.curseforge.com/projects/pollutant-p
 portality								1.2.2-14	https://minecraft.curseforge.com/projects/portality									Requires CTM
 primitivemobs							1.2.3a		https://minecraft.curseforge.com/projects/primitive-mobs							~
 ProjectE								1.4.1		https://minecraft.curseforge.com/projects/projecte									Required by auxiliumequivalence, emcbuilderswand, ProjectEIntegration and RetroBees
-ProjectEIntegration						2.2.11		https://minecraft.curseforge.com/projects/projecte-integration						Require ProjectE. Integrates w/ armorplus, astralsorcery, forestry, Mekanism, MysticalAgriculture, Pam's+HarvestCraft and TConstruct
+ProjectEIntegration						2.2.12		https://minecraft.curseforge.com/projects/projecte-integration						Require ProjectE. Integrates w/ armorplus, astralsorcery, forestry, Mekanism, MysticalAgriculture, Pam's+HarvestCraft and TConstruct
 ProjectVibrantJourneys					1.6.3		https://minecraft.curseforge.com/projects/project-vibrant-journeys					Integrates w/ BiomesOPlenty, SereneSeasons and Traverse
 ProportionalDestructionParticles		1.2.4		https://minecraft.curseforge.com/projects/proportional-destruction-particles		Integrates w/ FancyBlockParticles
 Quark									149			https://minecraft.curseforge.com/projects/quark										Requires AutoRegLib. Integrates w/ cosmeticbeds, fencejumper, nabb and universalbestiary
