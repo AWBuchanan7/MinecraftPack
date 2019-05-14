@@ -41,7 +41,7 @@ blockdrops								1.4.0		https://minecraft.curseforge.com/projects/block-drops-j
 Bloodmoon								1.5.3		https://minecraft.curseforge.com/projects/bloodmoon									~
 bonsaitrees								144			https://minecraft.curseforge.com/projects/bonsai-trees								~
 Bookshelf								2.3.577		https://minecraft.curseforge.com/projects/bookshelf									Required by BiomeSpecificDungeons, EerieEntities, EnchantingPlus, HuntingDimension, Pillagers and SimplyArrows
-BowInfinityFix							rv5			https://minecraft.curseforge.com/projects/bow-infinity-fix							~
+BowInfinityFix							rv5.1		https://minecraft.curseforge.com/projects/bow-infinity-fix							~
 Bullseye								3.0.7		https://minecraft.curseforge.com/projects/bullseye									~
 By+The+Gods								1.0.1		https://minecraft.curseforge.com/projects/by-the-gods								Requires AbyssalCraft
 caveroot								1.1.1		https://minecraft.curseforge.com/projects/cave-root									Requires kjlib
