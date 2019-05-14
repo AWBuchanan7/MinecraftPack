@@ -115,7 +115,7 @@ jepb									1.2.1		https://minecraft.curseforge.com/projects/just-enough-patter
 jetif									1.4.1		https://minecraft.curseforge.com/projects/jetif										Requires jei. Integrates w/ astralsorcery, combustfish and extrautils2
 journeymap								5.5.5b6		https://minecraft.curseforge.com/projects/journeymap								~
 JustEnoughCalculations					3.1.4		https://minecraft.curseforge.com/projects/just-enough-calculation					Requires jei
-JustEnoughIDs							1.0.2		https://minecraft.curseforge.com/projects/jeid										~
+JustEnoughIDs							26			https://minecraft.curseforge.com/projects/jeid										~
 JustEnoughResources						0.8.5.27	https://minecraft.curseforge.com/projects/just-enough-resources-jer					Requires jei. Integrates w/ artifacts
 kjlib									1.0.4		https://minecraft.curseforge.com/projects/kjlib										Required by caveroot and stonechests
 KleeSlabs								5.4.11		https://minecraft.curseforge.com/projects/kleeslabs									~
