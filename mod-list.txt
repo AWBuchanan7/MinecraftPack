@@ -122,7 +122,7 @@ KleeSlabs								5.4.11		https://minecraft.curseforge.com/projects/kleeslabs				
 lavawaderbauble							1.2			https://minecraft.curseforge.com/projects/lava-waders-bauble						Requires Baubles. Integrates w/ RandomThings
 Level+Up!+2								1.1.22		https://minecraft.curseforge.com/projects/level-up									~
 LibEx									1.0.8		https://minecraft.curseforge.com/projects/libraryex									Required by NetherEx
-librarianlib							4.17		https://minecraft.curseforge.com/projects/librarianlib								Requires Forgelin. Required by hooked
+librarianlib							4.18		https://minecraft.curseforge.com/projects/librarianlib								Requires Forgelin. Required by hooked
 llibrary								1.7.19		https://minecraft.curseforge.com/projects/llibrary									Required by fossilsarcheology, mowziesmobs, wearables and wings
 longfallboots							1.2.1b		https://minecraft.curseforge.com/projects/long-fall-boots							~
 LunatriusCore							1.2.0.42	https://minecraft.curseforge.com/projects/lunatriuscore								Required by InGameInfoXML
