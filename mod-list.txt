@@ -203,7 +203,7 @@ rustic									1.1.0		https://minecraft.curseforge.com/projects/rustic									R
 rusticbopwoods							1.0			https://minecraft.curseforge.com/projects/rustic-bop-woods							Requires BiomesOPlenty and rustic
 SeasonalBees							1.0			https://minecraft.curseforge.com/projects/seasonal-bees								Requires forestry and SereneSeasons
 secretroomsmod							5.6.4		https://minecraft.curseforge.com/projects/secretroomsmod							Integrates w/ CTM, jei and theoneprobe
-SereneSeasons							1.2.15		https://minecraft.curseforge.com/projects/serene-seasons							Required by igisereneseasons. Integrates w/ ProjectVibrantJourneys and SeasonalBees
+SereneSeasons							1.2.16		https://minecraft.curseforge.com/projects/serene-seasons							Required by igisereneseasons. Integrates w/ ProjectVibrantJourneys and SeasonalBees
 ShadowMC								3.8.0		https://minecraft.curseforge.com/projects/shadowmc									Requires Forgelin. Required by ExtraRails
 SimplyArrows							1.0.4		https://minecraft.curseforge.com/projects/simply-arrows								Requires Bookshelf
 Slab_Machines							1.0.5		https://minecraft.curseforge.com/projects/slab-machines								Requires MCMultiPart. Integrates w/ CraftingTweaks, FastFurnace, FastWorkbench, jei, PiTweaks and TConstruct
