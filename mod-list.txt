@@ -210,8 +210,6 @@ Slab_Machines							1.0.5		https://minecraft.curseforge.com/projects/slab-machin
 SmoothFont								1.16.2		https://minecraft.curseforge.com/projects/smooth-font								~
 SoundFilters							0.10		https://minecraft.curseforge.com/projects/sound-filters								~
 Stackie									1.6.0.48	https://minecraft.curseforge.com/projects/stackie									Requires LunatriusCore
-Stellar+API								0.4.2.9		https://minecraft.curseforge.com/projects/stellar-api								Required by Photoptics and Stellar+Sky
-Stellar+Sky								0.5.2.8		https://minecraft.curseforge.com/projects/stellar-sky								Requires Stellar+API
 stg										1.2.3		https://minecraft.curseforge.com/projects/swingthroughgrass							~
 stonechests								1.0.0		https://minecraft.curseforge.com/projects/stone-chests								~
 supersaix-VenomousFangs					1.1			https://minecraft.curseforge.com/projects/venomous-fangs							~
@@ -259,4 +257,6 @@ Hwyla									B41			https://minecraft.curseforge.com/projects/hwyla										Rep
 justenoughdimensions					1.5.5		https://minecraft.curseforge.com/projects/just-enough-dimensions					Only needed for custom-made dimensions. Thought it did something else.
 SharpBone								1.0			https://minecraft.curseforge.com/projects/sharpbone									Error registering the only item it adds...
 SmoothWater								0.1.4		https://minecraft.curseforge.com/projects/smoothwater								Replaced by MAGE
+Stellar+API								0.4.2.9		https://minecraft.curseforge.com/projects/stellar-api								Causes Forge errors with other mods during initialization
+Stellar+Sky								0.5.2.8		https://minecraft.curseforge.com/projects/stellar-sky								Causes Forge errors with other mods during initialization
 TTFR									1.9.1		https://minecraft.curseforge.com/projects/truetype-font-replacement					Replaced by SmoothFont
