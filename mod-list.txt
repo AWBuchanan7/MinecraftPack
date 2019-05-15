@@ -173,7 +173,6 @@ Pam's+Simple+Recipes					c			https://minecraft.curseforge.com/projects/pams-simp
 pamscookables							1.1			https://minecraft.curseforge.com/projects/pams-cookables							Requires Pam's+HarvestCraft
 parry									1.0-hotfix	https://minecraft.curseforge.com/projects/parry										~
 Patchouli								19			https://minecraft.curseforge.com/projects/patchouli									Required by universalbestiary
-Photoptics								0.1.1.1		https://minecraft.curseforge.com/projects/photoptics								Requires Stellar+API
 Pillagers								1.0.2		https://minecraft.curseforge.com/projects/pillagers									Requires Bookshelf
 PiTweaks								1.1.1		https://minecraft.curseforge.com/projects/cplpibalds-tweaks							Integrates w/ Slab_Machines
 Placebo									1.6.0		https://minecraft.curseforge.com/projects/placebo									Required by Magical+Map, Plants, Toast+Control and WitherSkeletonTweaks
@@ -255,6 +254,7 @@ gottagofast								1.1			https://minecraft.curseforge.com/projects/gotta-go-fast
 hatedmobs								1.3.0		https://minecraft.curseforge.com/projects/hated-mobs								There's a reason they're called hated mobs
 Hwyla									B41			https://minecraft.curseforge.com/projects/hwyla										Replaced by theoneprobe
 justenoughdimensions					1.5.5		https://minecraft.curseforge.com/projects/just-enough-dimensions					Only needed for custom-made dimensions. Thought it did something else.
+Photoptics								0.1.1.1		https://minecraft.curseforge.com/projects/photoptics								Causes Forge errors with other mods during initialization
 SharpBone								1.0			https://minecraft.curseforge.com/projects/sharpbone									Error registering the only item it adds...
 SmoothWater								0.1.4		https://minecraft.curseforge.com/projects/smoothwater								Replaced by MAGE
 Stellar+API								0.4.2.9		https://minecraft.curseforge.com/projects/stellar-api								Causes Forge errors with other mods during initialization
