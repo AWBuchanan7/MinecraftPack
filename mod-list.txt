@@ -19,7 +19,6 @@ Artifacts								1.1.0		https://minecraft.curseforge.com/projects/artifacts					
 astralsorcery							1.10.18		https://minecraft.curseforge.com/projects/astral-sorcery							Requires Baubles. Integrates w/ CTM, jetif and ProjectEIntegration
 AttributeFix							1.0.4		https://minecraft.curseforge.com/projects/attributefix								Integrates w/ toughnessbar
 AutoRegLib								28			https://minecraft.curseforge.com/projects/autoreglib								Required by heartdrops and Quark
-auxiliumequivalence						1.3.2		https://minecraft.curseforge.com/projects/auxilium-equivalence						Requires jei and ProjectE
 BabyMobs								1.5.5		https://minecraft.curseforge.com/projects/baby-mobs									~
 bark									1.0.4		https://minecraft.curseforge.com/projects/bark										Integrates w/ Rustic
 Baubles									1.5.2		https://minecraft.curseforge.com/projects/baubles									Required by artifacts, astralsorcery, BaublesHud, defiledlands, Hooked, lavawaderbauble and megaloot
@@ -48,7 +47,6 @@ caveroot								1.1.1		https://minecraft.curseforge.com/projects/cave-root						
 ChanceCubes								242			https://minecraft.curseforge.com/projects/chance-cubes								~
 ChatTweaks								5.1.20		https://minecraft.curseforge.com/projects/chat-tweaks								~
 chickens								6.0.4		https://minecraft.curseforge.com/projects/chickens									Required by morechickens. Integrates w/ jei and theoneprobe
-combustfish								1.0.3.3		https://minecraft.curseforge.com/projects/combustive-fishing						Integrates w/ jetif
 conarm									1.2.3.4		https://minecraft.curseforge.com/projects/constructs-armory							Requires Mantle and TConstruct. Required by armoryexpansion. Integrates w/ jei, plustic, tinkersarsenal and TinkerToolLeveling
 ContainerFix							1.0			https://minecraft.curseforge.com/projects/containerfix								~
 Controlling								3.0.6		https://minecraft.curseforge.com/projects/controlling								~
@@ -249,7 +247,9 @@ zombieawareness							1.11.16		https://minecraft.curseforge.com/projects/zombie-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Removed ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Name									Version		URL																					Reason
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+auxiliumequivalence						1.3.2		https://minecraft.curseforge.com/projects/auxilium-equivalence						Throwing errors
 bedpatch								2.2			https://minecraft.curseforge.com/projects/bed-patch									Replaced by VanillaFix
+combustfish								1.0.3.3		https://minecraft.curseforge.com/projects/combustive-fishing						Throwing errors in server console
 gottagofast								1.1			https://minecraft.curseforge.com/projects/gotta-go-fast								Replaced by randompatches
 hatedmobs								1.3.0		https://minecraft.curseforge.com/projects/hated-mobs								There's a reason they're called hated mobs
 Hwyla									B41			https://minecraft.curseforge.com/projects/hwyla										Replaced by theoneprobe
