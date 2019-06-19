@@ -86,7 +86,7 @@ FloodLights								1.3.2-14	https://minecraft.curseforge.com/projects/floodlight
 foamfix									0.10.5		https://minecraft.curseforge.com/projects/foamfix-for-minecraft						~
 FoodExpansion							1.3.3		https://minecraft.curseforge.com/projects/food-expansion							Integrates w/ CookingForBlockheads
 forestry								387			https://minecraft.curseforge.com/projects/forestry									Required by beebetteratbees, morebees, nabb, retrobees and SeasonalBees. Integrates w/ ProjectEIntegration, rustic and topaddons
-ForgeEndertech							0321		https://minecraft.curseforge.com/projects/forgeendertech							Required by AdChimneys, AdPother and pollutantpump
+ForgeEndertech							0362		https://minecraft.curseforge.com/projects/forgeendertech							Required by AdChimneys, AdPother and pollutantpump
 Forgelin								1.8.2		https://minecraft.curseforge.com/projects/shadowfacts-forgelin						Required by BetterFoliage
 fossilsarcheology						8.0.0		https://minecraft.curseforge.com/projects/fossils									Requires llibrary
 furniture								6.2.1		https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod					Integrates w/ AdChimneys, AdPother and Pam's+HarvestCraft
