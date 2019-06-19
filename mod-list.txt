@@ -39,7 +39,7 @@ blockcraftery							1.3.1		https://minecraft.curseforge.com/projects/blockcrafte
 blockdrops								1.4.0		https://minecraft.curseforge.com/projects/block-drops-jei-addon						Requires jei
 Bloodmoon								1.5.3		https://minecraft.curseforge.com/projects/bloodmoon									~
 bonsaitrees								156			https://minecraft.curseforge.com/projects/bonsai-trees								~
-Bookshelf								2.3.577		https://minecraft.curseforge.com/projects/bookshelf									Required by BiomeSpecificDungeons, EerieEntities, EnchantingPlus, HuntingDimension, Pillagers and SimplyArrows
+Bookshelf								2.3.584		https://minecraft.curseforge.com/projects/bookshelf									Required by BiomeSpecificDungeons, EerieEntities, EnchantingPlus, HuntingDimension, Pillagers and SimplyArrows
 BowInfinityFix							rv5.1		https://minecraft.curseforge.com/projects/bow-infinity-fix							~
 Bullseye								3.0.7		https://minecraft.curseforge.com/projects/bullseye									~
 By+The+Gods								1.0.1		https://minecraft.curseforge.com/projects/by-the-gods								Requires AbyssalCraft
