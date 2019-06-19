@@ -18,7 +18,7 @@ Aroma1997s-Dimensional-World			2.0.0.2		https://minecraft.curseforge.com/project
 Artifacts								1.1.0		https://minecraft.curseforge.com/projects/artifacts									Requires Baubles. Integrates w/ JustEnoughResources
 astralsorcery							1.10.19		https://minecraft.curseforge.com/projects/astral-sorcery							Requires Baubles. Integrates w/ CTM, jetif and ProjectEIntegration
 AttributeFix							1.0.4		https://minecraft.curseforge.com/projects/attributefix								Integrates w/ toughnessbar
-AutoRegLib								28			https://minecraft.curseforge.com/projects/autoreglib								Required by heartdrops and Quark
+AutoRegLib								30			https://minecraft.curseforge.com/projects/autoreglib								Required by heartdrops and Quark
 BabyMobs								1.5.5		https://minecraft.curseforge.com/projects/baby-mobs									~
 bark									1.0.4		https://minecraft.curseforge.com/projects/bark										Integrates w/ Rustic
 Baubles									1.5.2		https://minecraft.curseforge.com/projects/baubles									Required by artifacts, astralsorcery, BaublesHud, defiledlands, Hooked, lavawaderbauble and megaloot
