@@ -80,7 +80,7 @@ FancyBlockParticles						2.4.1		https://minecraft.curseforge.com/projects/fancy-
 fancylamps								1.1.0		https://minecraft.curseforge.com/projects/fancy-lamps								Integrates w/ CTM
 FasterLadderClimbing					146			https://minecraft.curseforge.com/projects/faster-ladder-climbing					~
 FastFurnace								1.3.1		https://minecraft.curseforge.com/projects/fastfurnace								Integrates w/ Slab_Machines
-FastWorkbench							1.7.1		https://minecraft.curseforge.com/projects/fastworkbench								Integrates w/ Slab_Machines
+FastWorkbench							1.7.2		https://minecraft.curseforge.com/projects/fastworkbench								Integrates w/ Slab_Machines
 fencejumper								1.0.5		https://minecraft.curseforge.com/projects/fence-jumper								Integrates w/ Quark
 FloodLights								1.3.2-14	https://minecraft.curseforge.com/projects/floodlights								Integrates w/ AdPother
 foamfix									0.10.5		https://minecraft.curseforge.com/projects/foamfix-for-minecraft						~
