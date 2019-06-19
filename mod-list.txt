@@ -47,7 +47,7 @@ caveroot								1.1.1		https://minecraft.curseforge.com/projects/cave-root						
 ChanceCubes								271			https://minecraft.curseforge.com/projects/chance-cubes								~
 ChatTweaks								5.1.22		https://minecraft.curseforge.com/projects/chat-tweaks								~
 chickens								6.0.4		https://minecraft.curseforge.com/projects/chickens									Required by morechickens. Integrates w/ jei and theoneprobe
-conarm									1.2.3.4		https://minecraft.curseforge.com/projects/constructs-armory							Requires Mantle and TConstruct. Required by armoryexpansion. Integrates w/ jei, plustic, tinkersarsenal and TinkerToolLeveling
+conarm									1.2.4		https://minecraft.curseforge.com/projects/constructs-armory							Requires Mantle and TConstruct. Required by armoryexpansion. Integrates w/ jei, plustic, tinkersarsenal and TinkerToolLeveling
 ContainerFix							1.0			https://minecraft.curseforge.com/projects/containerfix								~
 Controlling								3.0.6		https://minecraft.curseforge.com/projects/controlling								~
 CookingForBlockheads					6.4.70		https://minecraft.curseforge.com/projects/cooking-for-blockheads					Integrates w/ AdChimneys, AdPother, FoodExpansion and Pam's+HarvestCraft
