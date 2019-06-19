@@ -11,7 +11,7 @@ AdPother								0364		https://minecraft.curseforge.com/projects/pollution-of-the
 AnvilFix								1.0.3		https://minecraft.curseforge.com/projects/anvil-fix									~
 AppleSkin								1.0.9		https://minecraft.curseforge.com/projects/appleskin									~
 Aquaculture								1.6.8		https://minecraft.curseforge.com/projects/aquaculture								~
-armorplus								11.22.0.58	https://minecraft.curseforge.com/projects/armorplus									Requires thedragonlib. Integrates w/ Baubles, jei, ProjectE, ProjectEIntegration, theoneprobe and TConstruct
+armorplus								11.23.0.59	https://minecraft.curseforge.com/projects/armorplus									Requires thedragonlib. Integrates w/ Baubles, jei, ProjectE, ProjectEIntegration, theoneprobe and TConstruct
 armoryexpansion							1.1.10c		https://minecraft.curseforge.com/projects/armory-expansion							Requires conarm, Mantle and TConstruct. Integrates w/ AbyssalCraft+Integration, extrautils2, MysticalAgradditions, MysticalAgriculture, plustic and taiga
 Aroma1997Core							2.0.0.2		https://minecraft.curseforge.com/projects/aroma1997core								Required by Aroma1997s-Dimensional-World
 Aroma1997s-Dimensional-World			2.0.0.2		https://minecraft.curseforge.com/projects/aroma1997s-dimensional-world				Requires Aroma1997Core. Integrates w/ Dense Metals
