@@ -22,7 +22,7 @@ AutoRegLib								30			https://minecraft.curseforge.com/projects/autoreglib					
 BabyMobs								1.5.5		https://minecraft.curseforge.com/projects/baby-mobs									~
 bark									1.0.4		https://minecraft.curseforge.com/projects/bark										Integrates w/ Rustic
 Baubles									1.5.2		https://minecraft.curseforge.com/projects/baubles									Required by artifacts, astralsorcery, BaublesHud, defiledlands, Hooked, lavawaderbauble and megaloot
-BaublesHud								5.0.1		https://minecraft.curseforge.com/projects/baubleshud								Requires Baubles
+BaublesHud								5.0.2		https://minecraft.curseforge.com/projects/baubleshud								Requires Baubles
 beebetteratbees							2.0.3		https://minecraft.curseforge.com/projects/beebetteratbees							Requires forestry and jei
 BetterAdvancements						0.1.0.77	https://minecraft.curseforge.com/projects/better-advancements						~
 BetterBedrockGenerator					6.1.1		https://minecraft.curseforge.com/projects/betterbedrockgen							~
