@@ -74,7 +74,7 @@ EnchantmentDescriptions					1.1.14		https://minecraft.curseforge.com/projects/en
 ExtraGolems								7.1.5		https://minecraft.curseforge.com/projects/extra-golems								Required by TinkersGolemsAddon
 ExtraRails								1.3.0		https://minecraft.curseforge.com/projects/extra-rails								Requires ShadowMC
 extrautils2								1.9.9		https://minecraft.curseforge.com/projects/extra-utilities							Required by tmel. Integrates w/ Additional-Compression, armoryexpansion and jetif
-fairylights								2.1.6		https://minecraft.curseforge.com/projects/fairy-lights								~
+fairylights								2.1.7		https://minecraft.curseforge.com/projects/fairy-lights								~
 FamiliarFauna							1.0.11		https://minecraft.curseforge.com/projects/familiar-fauna							~
 FancyBlockParticles						2.4.1		https://minecraft.curseforge.com/projects/fancy-block-particles						Integrates w/ ProportionalDestructionParticles
 fancylamps								1.1.0		https://minecraft.curseforge.com/projects/fancy-lamps								Integrates w/ CTM
