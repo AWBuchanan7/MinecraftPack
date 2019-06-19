@@ -97,7 +97,7 @@ HelpFixer								1.5.18		https://minecraft.curseforge.com/projects/helpfixer				
 hooked									1.0.3		https://minecraft.curseforge.com/projects/hooked									Requires Baubles and LibrarianLib
 HuntingDimension						1.0.39		https://minecraft.curseforge.com/projects/hunting-dimension							Requires Bookshelf
 igisereneseasons						1.0.0.1		https://minecraft.curseforge.com/projects/ingame-info-xml-serene-seasons			Requires InGameInfoXML and SereneSeasons
-Immersive+Vehicles						14.2.0		https://minecraft.curseforge.com/projects/minecraft-transport-simulator				Required by UNU+Parts+Pack+[MTS]. Integrates w/ AdPother
+Immersive+Vehicles						14.3.1		https://minecraft.curseforge.com/projects/minecraft-transport-simulator				Required by UNU+Parts+Pack+[MTS]. Integrates w/ AdPother
 InfernalMobs							4.5.2019	https://minecraft.curseforge.com/projects/atomicstrykers-infernal-mobs				~
 InGameInfoXML							2.8.2.94	https://minecraft.curseforge.com/projects/ingame-info-xml							Requires LunatriusCore. Required by igisereneseasons
 Inspirations							0.2.4		https://minecraft.curseforge.com/projects/inspirations								Requires Mantle. Integrates w/ jei and theoneprobe
