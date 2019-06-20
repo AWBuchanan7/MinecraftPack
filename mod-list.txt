@@ -161,7 +161,7 @@ NoTemaStahp								1.0.3		https://minecraft.curseforge.com/projects/no-tema-stah
 omlib									246			https://minecraft.curseforge.com/projects/omlib										Required by openmodularturrets
 OpenBlocks								1.8.1		https://minecraft.curseforge.com/projects/openblocks								Requires OpenModsLib. Integrates w/ universalbestiary
 OpenModsLib								0.12.2		https://minecraft.curseforge.com/projects/openmodslib								Required by OpenBlocks
-openmodularturrets						335			https://minecraft.curseforge.com/projects/openmodularturrets						Requires omlib
+openmodularturrets						355			https://minecraft.curseforge.com/projects/openmodularturrets						Requires omlib
 OreExcavation							1.4.140		https://minecraft.curseforge.com/projects/ore-excavation							~
 OreLib									3.5.2.2		https://minecraft.curseforge.com/projects/orelib									Required by DynamicSurroundings
 OreSpawn								3.3.1.172	https://minecraft.curseforge.com/projects/mmd-orespawn								Required by DenseMetals and Mineralogy
