@@ -166,7 +166,7 @@ OreExcavation							1.4.140		https://minecraft.curseforge.com/projects/ore-excav
 OreLib									3.5.2.2		https://minecraft.curseforge.com/projects/orelib									Required by DynamicSurroundings
 OreSpawn								3.3.1.172	https://minecraft.curseforge.com/projects/mmd-orespawn								Required by DenseMetals and Mineralogy
 overloadedarmorbar						1.0.4g		https://minecraft.curseforge.com/projects/overloaded-armor-bar						~
-Pam's+HarvestCraft						zc			https://minecraft.curseforge.com/projects/pams-harvestcraft							Required by jehc and pamscookables. Integrates w/ AdPother, CookingForBlockheads, culinaryconstruct and ProjectEIntegration
+Pam's+HarvestCraft						zd			https://minecraft.curseforge.com/projects/pams-harvestcraft							Required by jehc and pamscookables. Integrates w/ AdPother, CookingForBlockheads, culinaryconstruct and ProjectEIntegration
 Pam's+Simple+Recipes					c			https://minecraft.curseforge.com/projects/pams-simple-recipes						~
 pamscookables							1.1			https://minecraft.curseforge.com/projects/pams-cookables							Requires Pam's+HarvestCraft
 parry									1.0-hotfix	https://minecraft.curseforge.com/projects/parry										~
