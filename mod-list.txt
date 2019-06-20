@@ -241,7 +241,7 @@ wings									1.1.5		https://minecraft.curseforge.com/projects/wings										Re
 WitherSkeletonTweaks					2.6.3		https://minecraft.curseforge.com/projects/wither-skeleton-tweaks					Requires Placebo
 wolfarmor								2.2.3.1798	https://minecraft.curseforge.com/projects/wolf-armor-and-storage					~
 worleycaves								1.4.1		https://minecraft.curseforge.com/projects/worleys-caves								~
-yoyos									1.2.2.20	https://minecraft.curseforge.com/projects/yoyos										Integrates w/ plustic and TConstruct
+yoyos									1.3.0.21	https://minecraft.curseforge.com/projects/yoyos										Integrates w/ plustic and TConstruct
 zombieawareness							1.11.16		https://minecraft.curseforge.com/projects/zombie-awareness							Requires coroutil
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Removed ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
