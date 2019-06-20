@@ -175,7 +175,7 @@ Pillagers								1.0.4		https://minecraft.curseforge.com/projects/pillagers					
 PiTweaks								1.1.1		https://minecraft.curseforge.com/projects/cplpibalds-tweaks							Integrates w/ Slab_Machines
 Placebo									1.6.0		https://minecraft.curseforge.com/projects/placebo									Required by Magical+Map, Plants, Toast+Control and WitherSkeletonTweaks
 Plants									2.10.7		https://minecraft.curseforge.com/projects/plants									Requires Placebo
-plustic									7.0.6.1		https://minecraft.curseforge.com/projects/plustic									Requires Mantle and TConstruct. Integrates w/ armoryexpansion, conarm and yoyos
+plustic									7.0.7.0		https://minecraft.curseforge.com/projects/plustic									Requires Mantle and TConstruct. Integrates w/ armoryexpansion, conarm and yoyos
 pollutantpump							1.1.0		https://minecraft.curseforge.com/projects/pollutant-pump							Requires AdPother and ForgeEndertech
 portality								1.2.2-14	https://minecraft.curseforge.com/projects/portality									Requires CTM
 primitivemobs							1.2.3a		https://minecraft.curseforge.com/projects/primitive-mobs							~
