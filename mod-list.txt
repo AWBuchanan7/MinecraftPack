@@ -148,8 +148,8 @@ MTS_Official_Pack						V11			https://minecraft.curseforge.com/projects/transport
 multimob								1.0.5		https://minecraft.curseforge.com/projects/multi-mob-core							Required by primitivemobs
 MysticalAgradditions					1.3.2		https://minecraft.curseforge.com/projects/mystical-agradditions						Requires Cucumber and MysticalAgriculture. Integrates w/ armoryexpansion
 MysticalAgriculture						1.7.5		https://minecraft.curseforge.com/projects/mystical-agriculture						Requires Cucumber. Required by MysticalAgradditions. Integrates w/ AdChimneys, AdPother, armoryexpansion and ProjectEIntegration
-mysticallib								1.1.1		https://minecraft.curseforge.com/projects/mysticallib								Required by blockcraftery
-natura									4.3.2.66	https://minecraft.curseforge.com/projects/natura									Requires Mantle. Integrates w/ universalbestiary
+mysticallib								1.2.1		https://minecraft.curseforge.com/projects/mysticallib								Required by blockcraftery
+natura									4.3.2.69	https://minecraft.curseforge.com/projects/natura									Requires Mantle. Integrates w/ universalbestiary
 NetherEx								2.0.8		https://minecraft.curseforge.com/projects/netherex									Requires LibEx
 NewAgeBeeBreeding						1.0.5		https://minecraft.curseforge.com/projects/nabb										Requires forestry. Integrates w/ Quark
 nice									0.4.0		https://minecraft.curseforge.com/projects/xnicex									Requires mcjtylib. Integrates w/ theoneprobe
