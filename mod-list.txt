@@ -128,7 +128,7 @@ MAGE									0.2.4		https://minecraft.curseforge.com/projects/mage										Smoo
 Magical+Map								3.3.2		https://minecraft.curseforge.com/projects/magical-map								Requires Placebo
 malisiscore								6.5.1		https://minecraft.curseforge.com/projects/malisiscore								Required by malisisdoors
 malisisdoors							7.3.0		https://minecraft.curseforge.com/projects/malisisdoors								Requires malisiscore. Integrates w/ secretroomsmod
-Mantle									1.3.3.49	https://minecraft.curseforge.com/projects/mantle									Required by armoryexpansion, conarm, inspirations, Natura, tinkers-addons, tinkers-arsenal and TConstruct, TinkerToolLeveling
+Mantle									1.3.3.55	https://minecraft.curseforge.com/projects/mantle									Required by armoryexpansion, conarm, inspirations, Natura, tinkers-addons, tinkers-arsenal and TConstruct, TinkerToolLeveling
 mcjtylib								3.5.2		https://minecraft.curseforge.com/projects/mcjtylib									Required by nice
 MCMultiPart								2.5.3		https://minecraft.curseforge.com/projects/mcmultipart								Required by EDX-Multipart and Slab_Machines. Integrates w/ Mekanism
 megaloot								0.2.30		https://minecraft.curseforge.com/projects/megaloot									Requires Baubles
