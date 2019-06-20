@@ -132,7 +132,7 @@ Mantle									1.3.3.55	https://minecraft.curseforge.com/projects/mantle								
 mcjtylib								3.5.3		https://minecraft.curseforge.com/projects/mcjtylib									Required by nice
 MCMultiPart								2.5.3		https://minecraft.curseforge.com/projects/mcmultipart								Required by EDX-Multipart and Slab_Machines. Integrates w/ Mekanism
 megaloot								0.2.30		https://minecraft.curseforge.com/projects/megaloot									Requires Baubles
-Mekanism								375			https://minecraft.curseforge.com/projects/mekanism									Required by Mekanism Tools. Integrates w/ AdChimneys, AdPother, Cyclic, jei, MCMultiPart, ProjectEIntegration and theoneprobe
+Mekanism								379			https://minecraft.curseforge.com/projects/mekanism									Required by Mekanism Tools. Integrates w/ AdChimneys, AdPother, Cyclic, jei, MCMultiPart, ProjectEIntegration and theoneprobe
 MekanismTools							375			https://minecraft.curseforge.com/projects/mekanism-tools							Requires Mekanism
 Mineralogy								3.4.0.29	https://minecraft.curseforge.com/projects/minecraft-mineralogy						~
 modnametooltip							1.10.0		https://minecraft.curseforge.com/projects/mod-name-tooltip							~
