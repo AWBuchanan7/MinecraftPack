@@ -177,7 +177,7 @@ Placebo									1.6.0		https://minecraft.curseforge.com/projects/placebo								
 Plants									2.10.7		https://minecraft.curseforge.com/projects/plants									Requires Placebo
 plustic									7.0.7.0		https://minecraft.curseforge.com/projects/plustic									Requires Mantle and TConstruct. Integrates w/ armoryexpansion, conarm and yoyos
 pollutantpump							1.1.0		https://minecraft.curseforge.com/projects/pollutant-pump							Requires AdPother and ForgeEndertech
-portality								1.2.2-14	https://minecraft.curseforge.com/projects/portality									Requires CTM
+portality								1.2.3-15	https://minecraft.curseforge.com/projects/portality									Requires CTM
 primitivemobs							1.2.3a		https://minecraft.curseforge.com/projects/primitive-mobs							~
 ProjectE								1.4.1		https://minecraft.curseforge.com/projects/projecte									Required by auxiliumequivalence, emcbuilderswand, ProjectEIntegration and RetroBees
 ProjectEIntegration						2.2.12		https://minecraft.curseforge.com/projects/projecte-integration						Require ProjectE. Integrates w/ armorplus, astralsorcery, forestry, Mekanism, MysticalAgriculture, Pam's+HarvestCraft and TConstruct
