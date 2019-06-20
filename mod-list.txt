@@ -144,7 +144,7 @@ moreoverlays							1.14		https://minecraft.curseforge.com/projects/more-overlays
 Morpheus								3.5.106		https://minecraft.curseforge.com/projects/morpheus									Integrates w/ rpintegration
 MouseTweaks								2.10		https://minecraft.curseforge.com/projects/mouse-tweaks								~
 mowziesmobs								1.5.4		https://minecraft.curseforge.com/projects/mowzies-mobs								Requires llibrary
-MTS_Official_Pack						V10			https://minecraft.curseforge.com/projects/transport-simulator-official-vehicle-set	Requires Immersive+Vehicles
+MTS_Official_Pack						V11			https://minecraft.curseforge.com/projects/transport-simulator-official-vehicle-set	Requires Immersive+Vehicles
 multimob								1.0.5		https://minecraft.curseforge.com/projects/multi-mob-core							Required by primitivemobs
 MysticalAgradditions					1.3.2		https://minecraft.curseforge.com/projects/mystical-agradditions						Requires Cucumber and MysticalAgriculture. Integrates w/ armoryexpansion
 MysticalAgriculture						1.7.5		https://minecraft.curseforge.com/projects/mystical-agriculture						Requires Cucumber. Required by MysticalAgradditions. Integrates w/ AdChimneys, AdPother, armoryexpansion and ProjectEIntegration
