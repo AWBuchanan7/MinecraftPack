@@ -204,7 +204,7 @@ SereneSeasons							1.2.16		https://minecraft.curseforge.com/projects/serene-sea
 ShadowMC								3.8.0		https://minecraft.curseforge.com/projects/shadowmc									Requires Forgelin. Required by ExtraRails
 SimplyArrows							1.0.4		https://minecraft.curseforge.com/projects/simply-arrows								Requires Bookshelf
 Slab_Machines							1.0.6		https://minecraft.curseforge.com/projects/slab-machines								Requires MCMultiPart. Integrates w/ CraftingTweaks, FastFurnace, FastWorkbench, jei, PiTweaks and TConstruct
-SmoothFont								1.16.2		https://minecraft.curseforge.com/projects/smooth-font								~
+SmoothFont								2.0			https://minecraft.curseforge.com/projects/smooth-font								~
 SoundFilters							0.10		https://minecraft.curseforge.com/projects/sound-filters								~
 Stackie									1.6.0.48	https://minecraft.curseforge.com/projects/stackie									Requires LunatriusCore
 stg										1.2.3		https://minecraft.curseforge.com/projects/swingthroughgrass							~
