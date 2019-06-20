@@ -183,7 +183,7 @@ ProjectE								1.4.1		https://minecraft.curseforge.com/projects/projecte							
 ProjectEIntegration						2.2.13		https://minecraft.curseforge.com/projects/projecte-integration						Require ProjectE. Integrates w/ armorplus, astralsorcery, forestry, Mekanism, MysticalAgriculture, Pam's+HarvestCraft and TConstruct
 ProjectVibrantJourneys					1.6.3		https://minecraft.curseforge.com/projects/project-vibrant-journeys					Integrates w/ BiomesOPlenty, SereneSeasons and Traverse
 ProportionalDestructionParticles		1.2.4		https://minecraft.curseforge.com/projects/proportional-destruction-particles		Integrates w/ FancyBlockParticles
-Quark									150			https://minecraft.curseforge.com/projects/quark										Requires AutoRegLib. Integrates w/ cosmeticbeds, fencejumper, nabb and universalbestiary
+Quark									160			https://minecraft.curseforge.com/projects/quark										Requires AutoRegLib. Integrates w/ cosmeticbeds, fencejumper, nabb and universalbestiary
 QuickLeafDecay							1.2.4		https://minecraft.curseforge.com/projects/quick-leaf-decay							~
 railcraft								12.0.0		https://minecraft.curseforge.com/projects/railcraft									Integrates w/ AdChimneys and AdPother
 randompatches							1.15.1.0	https://minecraft.curseforge.com/projects/randompatches								Required by rpintegration
