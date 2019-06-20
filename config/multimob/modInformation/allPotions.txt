@@ -71,6 +71,7 @@ vampirism:sunscreen
 vampirism:fire_protection
 vampirism:disguise_as_vampire
 vampirism:garlic
+vampirism:poison
 abyssalcraft:cplague
 abyssalcraft:dplague
 abyssalcraft:antimatter
