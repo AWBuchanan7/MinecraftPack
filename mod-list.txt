@@ -158,7 +158,7 @@ NomadicTents							9.3.2		https://minecraft.curseforge.com/projects/nomadic-tent
 NoMobSpawningOnTrees					1.2.2		https://minecraft.curseforge.com/projects/no-mob-spawning-on-trees					~
 NoNVFlash								1.2.0.3		https://minecraft.curseforge.com/projects/no-night-vision-flashing					~
 NoTemaStahp								1.0.3		https://minecraft.curseforge.com/projects/no-tema-stahp								Remove exploits introduced in extrautils2
-omlib									232			https://minecraft.curseforge.com/projects/omlib										Required by openmodularturrets
+omlib									246			https://minecraft.curseforge.com/projects/omlib										Required by openmodularturrets
 OpenBlocks								1.8.1		https://minecraft.curseforge.com/projects/openblocks								Requires OpenModsLib. Integrates w/ universalbestiary
 OpenModsLib								0.12.2		https://minecraft.curseforge.com/projects/openmodslib								Required by OpenBlocks
 openmodularturrets						335			https://minecraft.curseforge.com/projects/openmodularturrets						Requires omlib
